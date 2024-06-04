@@ -1,0 +1,64 @@
+crie as tabelas abaixo e adicione ao banco com os atributos
+
+CLIENTE
+idcliente   // Somente esses atributos serão informado no INSERT
+nome
+telefone
+cep
+numero
+
+nomecidade  // Esses 5 atributos serão pesquisado e preenchidos automaticamente
+nomebairro  // no insert com uma TRIGGER
+estado      // 
+local       // 
+codigoIBGE  //
+
+quantidadevendas   // Atualizado a cada venda para o CLIENTE
+totalcomprado      // Atualizado a cada venda para o CLIENTE
+status             // Se o cliente estiver bloqueado 'B' a venda nao pode ser efetuada
+
+limitecomprafiado  // Se ao efetuar uma venda ela nao for paga deve se verificar se
+                   // a somatoria de vendas nao pagas desse cliente atinge esse valor se 
+                   // atingir a venda nao podera mais adicionar itens
+
+
+VENDA
+idvenda
+idcliente
+cep          // Endereço de entrega tem que existir o cep cadastrado
+numero       
+valortotal   // calculado
+datavenda    // preenchido automaticamente
+datapagamento
+
+ITEMVENDA    // Ao inserir ITEMVENDA o valortotal deve ser atualizado e qtdeestoque tambem
+idvenda
+idproduto
+quantidade
+valor
+
+PRODUTO
+idproduto
+qtdeestoque
+precocusto            // Ao inserir o PRODUTO o preco de venda deve ser calculado
+percentuallucro       // em relação ao precocusto e percentuallucro
+precovenda
+
+RESUMO DIARIO        // Esta tabela é preenchida automaticamente toda vez que uma venda é paga o valortotal é acumulado
+ano         pk       // no valorrecebido
+lancamento  pk
+datapagamento
+numerovenda
+valorrecebido
+saldododia           // somatoria de todos os lançamento do dia para cada registro adicionado
+
+
+Crie 3 usuarios um para parte de cliente/venda/itemvenda/produto e outro para a outra parte do banco cada usuario 
+pode ter acesso as suas tabelas mas nao pode excluir.
+Somente o terceiro usuario pode excluir de qualquer tabela.
+
+Os usuario pode deixar apenas o script com a configuração deles nao vai ser possivel cria-los no servidor. Voce pode 
+testa-los na sua maquina local.
+
+Crie uma VIEW que mostre para cada VENDA, os dados da venda e o local da entrega ("cidade","uf","bairro",'endereço"), 
+bem como o nome cliente

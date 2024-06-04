@@ -1,0 +1,3881 @@
+id_bairro|bairro|id_cidade
+0|-|0
+25|Floresta Sul|16
+29|Isaura Parente|16
+36|Morada do Sol|16
+45|Quinze|16
+53|Taquarí|16
+59|Alto do Cruzeiro|30
+61|Baixão|30
+67|Canafístula|30
+79|Olho D'Água dos Cazuzinhos|30
+81|Planalto|30
+82|Zélia Barbosa Rocha|30
+85|Santa Esmeralda|30
+91|Antares|109
+92|Barro Duro|109
+93|Bebedouro|109
+95|Benedito Bentes|109
+100|Cruz das Almas|109
+101|Farol|109
+102|Feitosa|109
+107|Jacarecica|109
+108|Jacintinho|109
+118|Poço|109
+119|Ponta da Terra|109
+120|Ponta Grossa|109
+122|Pontal da Barra|109
+124|Riacho Doce|109
+126|Santa Amélia|109
+129|Tabuleiro do Martins|109
+130|Trapiche da Barra|109
+133|Centro|135
+140|São Cristóvão|135
+144|Vila Maria|135
+147|Adrianópolis|243
+148|Aleixo|243
+149|Alvorada|243
+151|Armando Mendes|243
+154|Centro|243
+156|Cidade Nova|243
+157|Colônia Antônio Aleixo|243
+160|Colônia Terra Nova|243
+161|Compensa|243
+162|Coroado|243
+164|Distrito Industrial I|243
+165|Dom Pedro I|243
+167|Flores|243
+169|Japiim|243
+170|Jorge Teixeira|243
+172|Mauazinho|243
+173|Monte das Oliveiras|243
+177|Novo Israel|243
+178|Parque 10 de Novembro|243
+179|Paz|243
+180|Petrópolis|243
+183|Praça 14 de Janeiro|243
+186|Raiz|243
+187|Redenção|243
+188|Santa Etelvina|243
+190|Santo Agostinho|243
+192|São Francisco|243
+194|São Jorge|243
+195|São José Operário|243
+196|São Lázaro|243
+198|Tancredo Neves|243
+199|Tarumã|243
+202|Zumbi dos Palmares|243
+203|Centro|256
+204|Djard Vieira|256
+218|Congós|307
+220|Jardim Felicidade|307
+221|Jardim Marco Zero|307
+222|Jesus de Nazaré|307
+230|São Lázaro|307
+240|Kennedy|342
+245|Santa Terezinha|342
+262|São Miguel|403
+270|Vila Rica|403
+279|Dois de Julho|473
+282|Gleba B|473
+308|Nova Brasília|489
+318|Centro|579
+319|Doutor Gusmão|579
+322|Juca Rosa|579
+324|Moisés Reis|579
+328|Santa Lúcia|579
+340|São João|582
+341|Campo Limpo|582
+345|Centro|582
+349|Conceição|582
+358|Jardim Cruzeiro|582
+371|Pampalona|582
+397|Rua Nova|582
+398|Santa Mônica|582
+399|Santo Antônio dos Prazeres|582
+404|Calumbi|582
+406|Tomba|582
+408|Gabriela|582
+422|Basílio|659
+430|Conquista|659
+441|Nelson Costa|659
+463|Alto Maron|683
+469|Centro|683
+470|Centro Comercial|683
+478|Jaçanã|683
+490|Nova Califórnia|683
+492|Nova Itabuna|683
+495|Novo Horizonte|683
+503|Pedro Gerônimo|683
+510|São Caetano|683
+547|Jequiezinho|749
+548|Joaquim Romão|749
+569|Alto da Maravilha|759
+601|Tabuleiro|759
+604|Abel Barbosa|909
+617|Tancredo Neves I|909
+619|Tancredo Neves III|909
+623|Acupe de Brotas|988
+630|Amaralina|988
+632|Arenoso|988
+639|Barbalho|988
+645|Barroquinha|988
+653|Bonfim|988
+655|Brotas|988
+658|Caixa D'Água|988
+659|Cajazeiras|988
+661|Calabetão|988
+662|Calçada|988
+664|Caminho de Areia|988
+666|Campinas de Brotas|988
+667|Campinas de Pirajá|988
+668|Campo Grande|988
+671|Candeal|988
+672|Canela|988
+673|Capelinha|988
+675|Castelo Branco|988
+682|Cidade Nova|988
+686|Coutos|988
+687|Curuzu|988
+691|Engenho Velho de Brotas|988
+692|Engenho Velho da Federação|988
+696|Fazenda Coutos|988
+698|Fazenda Grande do Retiro|988
+699|Federação|988
+706|Granjas Rurais Presidente Vargas|988
+709|IAPI|988
+714|Itaigara|988
+716|Itapuã|988
+729|Liberdade|988
+730|Lobato|988
+735|Marechal Rondon|988
+737|Massaranduba|988
+742|Mussurunga I|988
+743|Nazaré|988
+744|Nordeste|988
+748|Palestina|988
+750|Paripe|988
+752|Patamares|988
+754|Pau Miúdo|988
+755|Bairro da Paz|988
+758|Pernambués|988
+759|Pero Vaz|988
+760|Piatã|988
+762|Pirajá|988
+765|Pituba|988
+767|Plataforma|988
+771|Praia Grande|988
+777|Rio Vermelho|988
+781|Santa Cruz|988
+786|São Cristóvão|988
+788|São Gonçalo|988
+790|São Marcos|988
+792|São Tomé de Paripe|988
+799|Stella Maris|988
+800|Stiep|988
+801|Sussuarana|988
+803|Tancredo Neves|988
+807|Uruguai|988
+811|Valéria|988
+817|Vila Ruy Barbosa|988
+822|Centro|1006
+836|Bela Vista|1078
+839|Castelinho|1078
+852|Nova Teixeira|1078
+855|Santa Rita|1078
+858|São Lourenço|1078
+864|Vila Caraípe|1078
+878|Boa Vista|1116
+881|Brasil|1116
+886|Bateias|1116
+900|Ibirapuera|1116
+920|Recreio|1116
+933|Zabelê|1116
+937|Araturi (Jurema)|1284
+948|Icaraí|1284
+950|Marechal Rondon (Jurema)|1284
+951|Mestre Antônio|1284
+952|Nova Metrópole (Jurema)|1284
+961|Tabapuá|1284
+969|Zacarias Gonçalves|1301
+985|Pimenta|1301
+989|São José|1301
+991|Seminário|1301
+1004|Barra do Ceará|1347
+1005|Bela Vista|1347
+1006|Benfica|1347
+1008|Bom Jardim|1347
+1009|Bonsucesso|1347
+1014|Centro|1347
+1017|Conjunto Ceará|1347
+1018|Conjunto Esperança|1347
+1019|Cristo Redentor|1347
+1022|Dias Macedo|1347
+1023|Dionisio Torres|1347
+1026|Fátima|1347
+1027|Parque Genibaú|1347
+1028|Granja Portugal|1347
+1029|Henrique Jorge|1347
+1032|Jangurussu|1347
+1037|Lagoa Redonda|1347
+1040|Meireles|1347
+1041|Messejana|1347
+1042|Mondubim|1347
+1046|Mucuripe|1347
+1051|Passaré|1347
+1052|Pici|1347
+1054|Prefeito José Walter|1347
+1055|Jardim das Oliveiras|1347
+1057|Salinas|1347
+1058|Serrinha|1347
+1059|São João do Tauape|1347
+1060|Varjota|1347
+1061|Vicente Pinzon|1347
+1065|Vila Velha|1347
+1072|Pio XII|1451
+1080|Triângulo|1451
+1081|Acaracuzinho|1486
+1094|Jardim Bandeirantes|1486
+1097|Jereissati I|1486
+1107|Cidade Nova|1486
+1115|Dom José|1722
+1116|Centro|1722
+1118|Doutor Juvêncio de Andrade|1722
+1128|Asa Norte|1778
+1129|Asa Sul|1778
+1168|Zona Cívico-Administrativa|1778
+1172|Setor Central (Gama)|1778
+1177|Setor Sul (Gama)|1778
+1181|Taguatinga Centro (Taguatinga)|1778
+1182|Taguatinga Norte (Taguatinga)|1778
+1183|Taguatinga Sul (Taguatinga)|1778
+1185|Ceilândia Norte (Ceilândia)|1778
+1186|Ceilândia Sul (Ceilândia)|1778
+1189|Setor Sul (Brazlândia)|1778
+1192|Vila São José (Brazlândia)|1778
+1193|Guará I|1778
+1194|Guará II|1778
+1197|Zona Industrial (Guará)|1778
+1198|Metropolitana (Núcleo Bandeirante)|1778
+1199|Núcleo Bandeirante|1778
+1200|Setor de Indústrias Bernardo Sayão (Núcleo Bandeir|1778
+1201|Setor de Mansões Park Way|1778
+1206|Sobradinho|1778
+1209|Setor Residencial Mestre D'Armas (Planaltina)|1778
+1211|Jardim Roriz (Planaltina)|1778
+1221|Setor Residencial Leste (Planaltina)|1778
+1223|Setor Tradicional (Planaltina)|1778
+1224|Vale do Amanhecer (Planaltina)|1778
+1228|Samambaia Norte (Samambaia)|1778
+1229|Samambaia Sul (Samambaia)|1778
+1231|Santa Maria|1778
+1234|Cruzeiro Novo|1778
+1235|Cruzeiro Velho|1778
+1236|Setor Sudoeste|1778
+1237|Paranoá|1778
+1238|Recanto das Emas|1778
+1239|Setor de Habitações Individuais Sul|1778
+1240|Setor de Habitações Individuais Norte|1778
+1241|Candangolândia|1778
+1242|Riacho Fundo I|1778
+1243|Riacho Fundo II|1778
+1250|Setor Residencial Oeste (São Sebastião)|1778
+1255|Aeroporto|1839
+1257|Alto Amarelo|1839
+1267|Basiléia|1839
+1340|Zumbi|1839
+1344|Bela Aurora|1844
+1354|Cariacica Sede|1844
+1363|Flexal I|1844
+1371|Itanguá|1844
+1372|Itapemirim|1844
+1375|Jardim Botânico|1844
+1385|Nova Esperança|1844
+1386|Nova Rosa da Penha|1844
+1391|Operário|1844
+1392|Oriente|1844
+1393|Padre Gabriel|1844
+1396|Piranema|1844
+1401|Porto de Santana|1844
+1407|Retiro Saudoso|1844
+1410|Rosa da Penha|1844
+1411|Santa Bárbara|1844
+1414|Morada de Santa Fé|1844
+1422|São Conrado|1844
+1424|São Geraldo|1844
+1425|São João Batista|1844
+1429|Tabajara|1844
+1431|Vale dos Reis|1844
+1443|Vila Prudêncio|1844
+1455|Columbia|1847
+1456|Carlos Germano Naumann|1847
+1457|Esplanada|1847
+1462|Lacê|1847
+1467|Morada do Sol|1847
+1477|Santa Helena|1847
+1484|São Judas Tadeu|1847
+1490|Vila Lenira|1847
+1491|Vila Nova|1847
+1507|Ipiranga|1879
+1509|Jabaraí|1879
+1520|Muquiçaba|1879
+1530|Portal|1879
+1532|Santa Mônica|1879
+1548|Aviso|1925
+1551|Centro|1925
+1559|Movelar|1925
+1562|Novo Horizonte|1925
+1565|Planalto|1925
+1570|André Carloni|2028
+1573|Barro Branco|2028
+1580|Carapina Grande|2028
+1584|Centro da Serra|2028
+1593|Feu Rosa|2028
+1601|Jardim Bela Vista|2028
+1602|Jardim Carapina|2028
+1603|Jardim da Serra|2028
+1608|José de Anchieta|2028
+1612|Manguinhos|2028
+1631|Praia de Carapebus|2028
+1639|São Judas Tadeu|2028
+1654|Alecrim|2044
+1655|Alvorada|2044
+1660|Ataíde|2044
+1663|Barra do Jucu|2044
+1664|Barramares|2044
+1670|Centro de Vila Velha|2044
+1677|Cobilândia|2044
+1680|Cristóvão Colombo|2044
+1682|Divino Espírito Santo|2044
+1684|Glória|2044
+1690|Ilha das Flores|2044
+1736|Rio Marinho|2044
+1741|Santa Inês|2044
+1742|Santa Mônica|2044
+1747|São Torquato|2044
+1751|Soteco|2044
+1754|Vale Encantado|2044
+1760|Ariovaldo Favalessa|2048
+1765|Bento Ferreira|2048
+1768|Caratoíra|2048
+1775|Forte São João|2048
+1784|Ilha de Santa Maria|2048
+1788|Itararé|2048
+1796|Maria Ortiz|2048
+1798|Mata da Praia|2048
+1800|Piedade|2048
+1803|Jesus de Nazareth|2048
+1807|Nova Palestina|2048
+1810|da Penha|2048
+1816|do Quadro|2048
+1819|Resistência|2048
+1822|Santa Cecília|2048
+1824|Santa Lúcia|2048
+1827|Santa Tereza|2048
+1837|Tabuazeiro|2048
+1850|Boa Vista|2065
+1861|Conjunto Mirage|2065
+1866|Frei Eustáquio|2065
+1867|Gran Ville|2065
+1889|Jardim Nações Unidas|2065
+1895|Jardim Santana|2065
+1899|JK Parque Industrial Nova Capital|2065
+1901|Jundiaí|2065
+1907|Lourdes|2065
+1918|Parque Residencial Ander|2065
+1923|Recanto do Sol|2065
+1927|São Carlos|2065
+1948|Vila dos Sargentos|2065
+1994|Chácaras São Pedro|2069
+1997|Cidade Vera Cruz|2069
+2006|Conjunto Mabel|2069
+2016|Goiânia Park Sul|2069
+2021|Itapoã|2069
+2028|Jardim Bonança|2069
+2029|Jardim Buriti Sereno|2069
+2034|Jardim Cristal|2069
+2065|Setor Pampulha|2069
+2075|Jardim São Conrado|2069
+2077|Jardim Transbrasiliano|2069
+2093|Parque Hayala|2069
+2098|Parque Karajá|2069
+2100|Parque Montreal|2069
+2105|Parque Trindade|2069
+2114|Residencial Norte Sul|2069
+2119|Rosa dos Ventos|2069
+2158|Vila Maria|2069
+2169|Villasul|2069
+2180|Loteamento Jardim Paraíso|2125
+2214|Araguaia Park|2174
+2217|Capuava|2174
+2221|Chácara do Governador|2174
+2248|Cidade Jardim|2174
+2264|Condomínio Parque dos Cisnes|2174
+2271|Conjunto Residencial Aruanã I|2174
+2277|Setor Castelo Branco|2174
+2287|Conjunto Primavera|2174
+2298|Conjunto Vera Cruz|2174
+2300|Esplanada do Anicuns|2174
+2301|Setor Faiçalville|2174
+2303|Floresta|2174
+2309|Setor Goiânia 2|2174
+2312|Industrial Mooca|2174
+2315|Jardim América|2174
+2322|Jardim Brasil|2174
+2337|Jardim Europa|2174
+2339|Jardim Goiás|2174
+2340|Jardim Guanabara|2174
+2352|Jardim Mirabel|2174
+2367|Jardim Vila Boa|2174
+2391|Parque Atheneu|2174
+2396|Parque das Flores|2174
+2400|Parque Eldorado Oeste|2174
+2403|Parque Industrial João Braz|2174
+2406|Parque Oeste Industrial|2174
+2409|Parque Santa Rita|2174
+2416|Recreio do Funcionário Público|2174
+2444|Residencial Recanto do Bosque|2174
+2446|Residencial Solar Ville|2174
+2455|São Francisco|2174
+2460|Setor Bueno|2174
+2463|Setor Central|2174
+2473|Setor Garavelo|2174
+2475|Setor Grajaú|2174
+2478|Setor Leste Universitário|2174
+2484|Setor Norte Ferroviário|2174
+2489|Setor Pedro Ludovico|2174
+2495|Setor Santos Dumont|2174
+2498|Setor Sul|2174
+2502|Setor Urias Magalhães|2174
+2504|Residencial Aldeia do Vale|2174
+2507|Sítios de Recreio Mansões do Campus|2174
+2521|Vila Alto da Glória|2174
+2529|Vila Bela|2174
+2534|Vila Colemar Natal e Silva|2174
+2543|Vila Fróes|2174
+2575|Vila Pedroso|2174
+2577|Vila Redenção|2174
+2591|Vila Santo Afonso|2174
+2602|Vila Vera Cruz|2174
+2617|Jardim Liberdade|2204
+2625|Setor Dona Marolina|2204
+2629|Setor Nova Aurora|2204
+2630|Setor Novo Horizonte|2204
+2631|Setor Paranaíba|2204
+2635|Setor Santa Rita|2204
+2642|Vila Vitória|2204
+2645|Centro|2209
+2657|Santa Terezinha|2209
+2660|Setor Aeroporto|2209
+2673|Setor Industrial|2209
+2675|Setor Jacutinga|2209
+2676|Setor José Bento|2209
+2682|Vila das Palmeiras|2209
+2695|Vila Santa Maria|2209
+2700|Itapuã I|2285
+2702|Jardim das Paineiras|2285
+2703|Jardim Paquetá I|2285
+2706|Setor Leste|2285
+2708|Setor Oeste|2285
+2717|Jardim Bela Vista|2298
+2756|Vila Amália|2298
+2758|Vila Baylão|2298
+2765|Vila Maria|2298
+2768|Vila Morais|2298
+2774|Vila Rosalina|2298
+2806|Seriema|2430
+2810|Volta Redonda|2430
+2813|Bacuri|2475
+2815|Boca da Mata|2475
+2837|Jardim Tropical|2475
+2853|Parque Santa Lúcia|2475
+2857|Santa Inês|2475
+2893|Anjo da Guarda|2587
+2898|Aurora|2587
+2911|Centro|2587
+2912|Cidade Operária|2587
+2915|COHAB Anil II|2587
+2918|COHEB do Sacavém|2587
+2923|Cohaserma|2587
+2948|Forquilha|2587
+2966|João de Deus|2587
+2968|Jordoa|2587
+2969|Liberdade|2587
+2972|Madre Deus|2587
+2974|Maracanã|2587
+2994|Pedrinhas|2587
+2996|Pirapora|2587
+2999|Ponta D'Areia|2587
+3002|Quebra Pote|2587
+3003|Quintas do Calhau|2587
+3005|Recanto dos Vinhais|2587
+3011|Rio Grande|2587
+3012|Sá Viana|2587
+3028|Tibiri|2587
+3030|Tirirical|2587
+3039|Vila Itamar|2587
+3041|Vila Nova|2587
+3043|Vila Palmeira|2587
+3046|Vila Vicente Fialho|2587
+3072|São Marcos|2606
+3079|Glória|2606
+3086|Brasília|2695
+3087|Centro|2695
+3094|Goiás|2695
+3105|Jardim Regina|2695
+3109|Miranda|2695
+3116|Paraíso|2695
+3120|Santa Helena|2695
+3123|São João|2695
+3128|Sibipiruna|2695
+3140|Jardim das Primaveras|2704
+3142|Barreiro|2704
+3157|José Ferreira Guimarães (Mangueira II)|2704
+3178|São Cristóvão|2704
+3205|Bom Pastor|2735
+3209|Campo|2735
+3243|Santa Luzia|2735
+3245|Santa Tereza I|2735
+3254|São Sebastião|2735
+3278|Belvedere|2754
+3279|Betânia|2754
+3281|Bonfim|2754
+3284|Braúnas|2754
+3286|Cabana do Pai Tomás|2754
+3289|Caiçaras|2754
+3290|Calafate|2754
+3291|Califórnia|2754
+3303|Castelo|2754
+3305|Centro|2754
+3321|Conjunto Califórnia|2754
+3340|Cruzeiro|2754
+3346|Dom Silvério|2754
+3352|Estoril|2754
+3360|Floramar|2754
+3366|Goiânia|2754
+3372|Havaí|2754
+3377|Indaiá|2754
+3385|Itaipu (Barreiro)|2754
+3391|Jardim Alvorada|2754
+3392|Jardim América|2754
+3397|Jardim dos Comerciários (Venda Nova)|2754
+3404|Paquetá|2754
+3406|Minaslândia (P Maio)|2754
+3407|Jardim Vitória|2754
+3409|João Pinheiro|2754
+3411|Juliana|2754
+3412|Lagoa|2754
+3418|Liberdade|2754
+3426|Mangabeiras|2754
+3427|Mangueiras (Barreiro)|2754
+3435|Milionários (Barreiro)|2754
+3448|Nova Cachoeirinha|2754
+3454|Nova Granada|2754
+3459|Novo Aarão Reis|2754
+3465|Ouro Preto|2754
+3468|Palmares|2754
+3471|Paraíso|2754
+3494|Planalto|2754
+3500|Providência|2754
+3503|Ribeiro de Abreu|2754
+3506|Santa Amélia|2754
+3507|Santa Branca|2754
+3516|Santa Lúcia|2754
+3521|Santa Tereza|2754
+3522|Santo Agostinho|2754
+3537|São Marcos|2754
+3549|Serrano|2754
+3557|Tirol (Barreiro)|2754
+3560|Tupi A|2754
+3572|Vila Cloris|2754
+3583|Nossa Senhora de Fátima|2754
+3622|Centro|2762
+3635|Filadélfia|2762
+3646|Ingá|2762
+3647|Itacolomi|2762
+3650|Jardim Casa Branca|2762
+3657|Jardim Teresópolis|2762
+3660|Laranjeiras|2762
+3667|Niterói|2762
+3688|Santa Cruz|2762
+3689|Santa Fé|2762
+3692|Santo Afonso|2762
+3700|Vianópolis|2762
+3757|Izabel Tavares|2909
+3758|Jardim|2909
+3760|Jardim Bandeirantes II|2909
+3769|Paraíso|2909
+3773|Santa Clara|2909
+3795|Bernardo Monteiro|2980
+3800|Camilo Alves|2980
+3803|Carajás|2980
+3837|Industrial|2980
+3860|Morada Nova|2980
+3861|Arvoredo|2980
+3869|Novo Progresso|2980
+3889|Santa Cruz Industrial|2980
+3894|Santa Terezinha|2980
+3905|Três Barras|2980
+3906|Tropical|2980
+3908|Vale das Amendoeiras|2980
+3912|Vila Beneves|2980
+3913|Vila Boa Vista|2980
+3921|Vila Pérola|2980
+3925|Xangri-Lá|2980
+3942|Giovanini|2990
+3949|Melo Viana|2990
+3961|Recanto Verde|2990
+3998|Centro|3047
+4027|Halin Souki|3047
+4028|Icaraí|3047
+4034|Itaí|3047
+4040|Jardim das Acácias|3047
+4044|Jardinópolis|3047
+4061|Nossa Senhora da Conceição|3047
+4088|Santa Rosa|3047
+4090|Santo André|3047
+4101|São Lucas|3047
+4127|Capim|3169
+4139|Jardim Alice|3169
+4143|Jardim Pérola|3169
+4150|Morada do Acampamento|3169
+4155|Palmeiras|3169
+4161|Sagrada Família|3169
+4163|Santa Helena|3169
+4166|Santa Terezinha|3169
+4177|Sir|3169
+4186|Vila Isa|3169
+4197|Bethânia|3229
+4199|Bom Retiro|3229
+4201|Caravelas|3229
+4202|Cariru|3229
+4209|Esperança|3229
+4216|Imbaúbas|3229
+4219|Limoeiro|3229
+4224|Vila Celeste|3229
+4228|Alto Pereira|3234
+4268|Madre Maria de Jesus|3234
+4272|Nossa Senhora das Oliveiras|3234
+4297|Vila Bethânia|3234
+4320|Avenida|3245
+4341|Santa Rosa|3245
+4349|Vila Rubens|3245
+4357|Chácara do Quitão|3267
+4365|Graças|3267
+4368|Itaunense II|3267
+4370|Lourdes|3267
+4371|Morada Nova|3267
+4373|Nogueira Machado|3267
+4400|Boa Esperança|3275
+4406|Centro|3275
+4413|Hélio|3275
+4414|Independência|3275
+4443|Setor Sul|3275
+4444|Sol Nascente|3275
+4446|Tupã|3275
+4447|Universitário|3275
+4453|Boa Vista|3304
+4466|José Elói|3304
+4496|Teresópolis|3304
+4505|Bairu|3315
+4522|Centro|3315
+4538|Floresta|3315
+4541|Grama|3315
+4554|Jardim de Alá|3315
+4568|Linhares|3315
+4616|Santa Catarina|3315
+4619|Santa Efigênia|3315
+4621|Santa Luzia|3315
+4628|Santo Antônio|3315
+4629|Santos Anjos|3315
+4638|São Pedro|3315
+4671|Alto São João|3448
+4683|Centro|3448
+4691|Clarindo Lopes|3448
+4698|Conjunto Cristo Rei|3448
+4704|Dona Gregória|3448
+4707|Edgar Pereira|3448
+4711|Francisco Peres I|3448
+4717|Interlagos|3448
+4740|Melo|3448
+4754|Regina Peres|3448
+4756|Roxo Verde|3448
+4759|Santa Eugênia|3448
+4761|Santa Lúcia|3448
+4769|Santo Inácio|3448
+4771|Santos Reis|3448
+4773|São José|3448
+4774|São Judas Tadeu|3448
+4780|Vargem Grande II|3448
+4783|Vila Anália|3448
+4785|Vila Atlântida|3448
+4818|Vila Tiradentes|3448
+4834|Jardim das Piteiras|3531
+4849|Recanto da Lagoa|3531
+4855|Santo Antônio|3531
+4870|Vila Maria|3531
+4930|São Benedito|3547
+4946|Boa Vista|3549
+4963|Ipanema|3549
+4972|Jardim Panorâmico|3549
+4981|Nossa Senhora de Fátima|3549
+4982|Nova Floresta|3549
+4986|Residencial Gramado|3549
+4987|Residencial Monjolo|3549
+4996|Várzea|3549
+5026|Chácara São Francisco|3632
+5036|Conjunto Habitacional Pedro Afonso Junqueira|3632
+5065|Jardim do Ginásio|3632
+5088|Jardim Quisisana|3632
+5108|Da Saúde|3632
+5148|Vila Brasil de Nossa Senhora Aparecida|3632
+5162|Vila Rabelo|3632
+5169|Centro|3641
+5172|Esplanada|3641
+5178|Nova Almeida|3641
+5193|Triângulo|3641
+5194|Triângulo Novo|3641
+5224|Fortaleza (Justinópolis)|3689
+5243|Maracanã I (Justinópolis)|3689
+5260|San Genaro|3689
+5293|Veneza|3689
+5314|Centro|3724
+5321|Esplanada|3724
+5343|Rio Negro|3724
+5345|Rosário|3724
+5349|São José|3724
+5384|Baronesa (São Benedito)|3749
+5386|Bela Vista|3749
+5391|Camelos|3749
+5396|Conjunto Palmital (São Benedito)|3749
+5399|Distrito Industrial Simão da Cunha|3749
+5404|Duquesa II (São Benedito)|3749
+5423|São Benedito|3749
+5429|Vila Íris|3749
+5440|Bonfim|3857
+5446|Dom Bosco|3857
+5453|Matozinhos|3857
+5457|Portal Vila Rica (Colônia do Marçal)|3857
+5466|São Geraldo|3857
+5471|Senhor dos Montes|3857
+5490|Aeroporto Industrial|3986
+5507|Canadá|3986
+5513|Cidade de Deus|3986
+5516|Dante Lanza|3986
+5525|Esmeraldas II|3986
+5558|Montreal|3986
+5570|Padre Teodoro|3986
+5603|São Francisco de Assis|3986
+5632|Esperança|4017
+5642|Jardim Serra Verde|4017
+5645|Manoel Pimenta|4017
+5650|Novo Horizonte|4017
+5663|Taquara|4017
+5683|Macuco|4019
+5688|Olaria|4019
+5696|Santa Rita (Cachoeira do Vale)|4019
+5710|Boa Vista|4047
+5727|Conjunto José Vallim de Melo|4047
+5728|Conjunto Manoel Mendes|4047
+5733|Conjunto Pontal|4047
+5738|Alfredo Freire II|4047
+5784|Nossa Senhora da Abadia|4047
+5807|Santos Dumont|4047
+5809|São José|4047
+5852|Cazeca|4048
+5876|Daniel Fonseca|4048
+5884|Gávea|4048
+5897|Jardim Brasília|4048
+5947|Pampulha|4048
+5954|Granada|4048
+5968|Residencial Gramado|4048
+5975|Santa Luzia|4048
+5977|Santa Mônica|4048
+5978|Morumbi|4048
+5985|Shopping Park|4048
+5993|Tubalina|4048
+6005|Vila Satélite|4048
+6006|Vigilato Pereira|4048
+6012|Bom Pastor|4066
+6014|Centro|4066
+6036|Jardim Mont Serrat|4066
+6043|Jardim Simões|4066
+6053|Parque Boa Vista|4066
+6057|Parque Ileana|4066
+6062|Parque São José|4066
+6067|Santa Luiza|4066
+6081|Vila Bueno|4066
+6104|Vila São Geraldo|4066
+6114|Cabreúva|4141
+6117|Centro|4141
+6122|Conjunto Aero Rancho|4141
+6127|Conjunto Habitacional Jardim Talismã|4141
+6132|Mata do Jacinto|4141
+6133|Conjunto Residencial Octavio Pécora|4141
+6140|Coophatrabalho|4141
+6141|Coophavila II|4141
+6144|Guanandi|4141
+6145|Guanandi II|4141
+6147|Jardim Aero Rancho|4141
+6148|Jardim Aeroporto|4141
+6165|Jardim Colibrí|4141
+6166|Jardim Colúmbia|4141
+6171|Jardim Imá|4141
+6173|Jardim Itália|4141
+6186|Jardim Morenão|4141
+6190|Jardim Nossa Senhora do Perpétuo Socorro|4141
+6193|Jardim Parati|4141
+6196|Jardim Petrópolis|4141
+6198|Jardim Presidente|4141
+6200|Jardim Santa Emília|4141
+6203|Jardim São Conrado|4141
+6223|Monte Carlo|4141
+6226|Nova Lima|4141
+6231|Parque Atlântico|4141
+6235|Parque dos Novos Estados|4141
+6256|Santo Antônio|4141
+6257|São Francisco|4141
+6262|Tiradentes|4141
+6264|Universitário|4141
+6269|Vila Almeida|4141
+6276|Vila Carvalho|4141
+6294|Vila Marcos Roberto|4141
+6298|Vila Moreninha II|4141
+6303|Vila Nasser|4141
+6306|Vila Nova Campo Grande|4141
+6307|Vila Nova Capital|4141
+6309|Vila Palmira|4141
+6319|Vila Santa Luzia|4141
+6327|Vila Vilas Boas|4141
+6331|Centro América|4152
+6351|Vila Mamona|4152
+6353|Altos do Indaiá|4163
+6364|Cohafaba II Plano|4163
+6380|Jardim dos Estados|4163
+6384|Jardim Independência|4163
+6399|Jardim Santa Herminia|4163
+6420|Vila Cachoeirinha|4163
+6443|Centro|4263
+6452|Jardim das Acácias|4263
+6453|Jardim das Oliveiras|4263
+6466|Jardim Planalto|4263
+6503|Bela Vista|4347
+6505|Bosque da Saúde|4347
+6518|Distrito Industrial|4347
+6520|Duque de Caxias I|4347
+6533|Jardim Paulista|4347
+6549|Osmar Cabral|4347
+6550|Parque Atalaia|4347
+6567|Santa Rosa|4347
+6570|Cohab São Gonçalo|4347
+6571|São José|4347
+6580|Centro|4462
+6588|Distrito Industrial|4462
+6591|Jardim Belo Horizonte|4462
+6594|Jardim Ipanema|4462
+6597|Loteamento Monte Líbano|4462
+6610|Jardim Tropical|4462
+6619|Vila Aurora I|4462
+6637|Centro Norte|4511
+6638|Cristo Rei|4511
+6642|Jardim dos Estados|4511
+6644|Glória|4511
+6660|Parque do Lago|4511
+6662|Ponte Nova|4511
+6671|Boa Esperança|4534
+6682|Mutirão|4534
+6694|Coqueiro|4539
+6695|Distrito Industrial|4539
+6696|Guanabara|4539
+6699|Maguari|4539
+6700|Marituba|4539
+6702|Quarenta Horas (Coqueiro)|4539
+6717|Campina|4565
+6719|Canudos|4565
+6722|Castanheira|4565
+6724|Cidade Velha|4565
+6725|Condor|4565
+6726|Coqueiro|4565
+6727|Cremação|4565
+6728|Cruzeiro (Icoaraci)|4565
+6731|Fátima|4565
+6732|Guamá|4565
+6736|Jurunas|4565
+6737|Mangueirão|4565
+6739|Maracacuera (Icoaraci)|4565
+6741|Maracangalha|4565
+6743|Marambaia|4565
+6744|Marco|4565
+6752|Paracuri (Icoaraci)|4565
+6754|Parque Guajará (Icoaraci)|4565
+6756|Pedreira|4565
+6762|Sacramenta|4565
+6763|São Brás|4565
+6764|São Clemente|4565
+6772|Terra Firme|4565
+6773|Umarizal|4565
+6808|Nova Olinda|4605
+6820|Floresta|4651
+6826|Belo Horizonte|4677
+6833|Nova Marabá|4677
+6866|Aeroporto Velho|4774
+6867|Aldeia|4774
+6876|Esperança|4774
+6877|Fátima|4774
+6879|Interventoria|4774
+6882|Livramento|4774
+6886|Nova República|4774
+6891|Santana|4774
+6892|Santarenzinho|4774
+6900|Colorado|4824
+6910|Matinha|4824
+6915|São José|4824
+6919|Terra Prometida|4824
+6922|Centro|4846
+6923|Itamarati|4846
+6927|Tanaka|4846
+6941|Tambay|4876
+6944|Bodocongó|4904
+6946|Catolé|4904
+6956|José Pinheiro|4904
+6963|Palmeira|4904
+6967|São José|4904
+6972|Alto do Mateus|4964
+6974|Brisamar|4964
+6976|Castelo Branco|4964
+6977|Centro|4964
+6979|Trincheiras|4964
+6980|Costa e Silva|4964
+6981|Cristo Redentor|4964
+6985|Ernesto Geisel|4964
+6990|Indústrias|4964
+6991|Ipês|4964
+6993|Jardim Cidade Universitária|4964
+6998|José Américo de Almeida|4964
+7001|Mangabeira|4964
+7003|Miramar|4964
+7005|Varjão|4964
+7009|Tambaú|4964
+7012|Torre|4964
+7014|Valentina de Figueiredo|4964
+7015|Varadouro|4964
+7016|Belo Horizonte|5017
+7018|Centro|5017
+7030|Jardim Magnólia|5017
+7050|Municípios|5066
+7051|Popular|5066
+7052|Vila Tibiri|5066
+7059|Centro|5114
+7062|Gato Preto|5114
+7066|Jardim Iracema|5114
+7073|Várzea da Cruz|5114
+7075|Alto São Miguel|5135
+7076|Caetés I|5135
+7077|Caetés II|5135
+7078|Caetés III|5135
+7079|Jardim Caetés|5135
+7083|Fosfato|5135
+7085|Planalto|5135
+7087|Boa Vista|5154
+7093|São Cristóvão|5154
+7098|Centro|5189
+7114|Aldeia dos Camarás|5198
+7116|Jardim Primavera|5198
+7118|Tabatinga|5198
+7121|Bairro Novo|5214
+7133|Cedro|5216
+7135|Cidade Alta|5216
+7137|Indianópolis|5216
+7140|Maurício de Nassau|5216
+7141|Morro do Bom Jesus|5216
+7142|Nossa Senhora das Dores|5216
+7146|Riachão|5216
+7147|Salgado|5216
+7154|Heliópolis|5259
+7155|Magano|5259
+7156|Novo Heliópolis|5259
+7157|Santo Antônio|5259
+7159|Bairro Novo|5264
+7160|Alto da Boa Vista|5264
+7162|Cruzeiro|5264
+7163|Santana|5264
+7165|Alpes Suiços|5264
+7171|Centro|5281
+7177|Barra de Jangada|5302
+7179|Cajueiro Seco|5302
+7180|Candeias|5302
+7182|Cavaleiro|5302
+7183|Centro|5302
+7186|Curado|5302
+7193|Guararapes|5302
+7195|Jardim Jordão|5302
+7197|Manassu|5302
+7198|Marcos Freire|5302
+7199|Muribeca|5302
+7202|Piedade|5302
+7203|Prazeres|5302
+7205|Santo Aleixo|5302
+7206|Socorro|5302
+7207|Sucupira|5302
+7211|Vila Rica|5302
+7213|Zumbi do Pacheco|5302
+7214|Águas Compridas|5362
+7222|Bairro Novo|5362
+7224|Bultrins|5362
+7225|Caixa D'Água|5362
+7226|Carmo|5362
+7228|Tabajara|5362
+7232|Jardim Atlântico|5362
+7233|Jardim Brasil|5362
+7236|Ouro Preto|5362
+7237|Passarinho|5362
+7238|Peixinhos|5362
+7239|Rio Doce|5362
+7240|Salgadinho|5362
+7246|Varadouro|5362
+7249|Artur Lundgren I|5384
+7252|Engenho Maranguape|5384
+7254|Janga|5384
+7257|Maranguape I|5384
+7262|Nossa Senhora da Conceição|5384
+7263|Nossa Senhora do Ó|5384
+7268|Antônio Cassimiro|5389
+7269|Areia Branca|5389
+7275|COHAB Massangano|5389
+7276|COHAB VI|5389
+7280|Dom Avelar|5389
+7282|Henrique Leite|5389
+7285|Jardim São Paulo|5389
+7286|Jatobá|5389
+7287|João de Deus|5389
+7300|Topázio|5389
+7301|Vila Eduardo|5389
+7305|Água Fria|5406
+7309|Alto Santa Terezinha|5406
+7313|Barro|5406
+7320|Brejo da Guabiraba|5406
+7321|Brejo de Beberibe|5406
+7322|Cabanga|5406
+7323|Caçote|5406
+7326|Campo Grande|5406
+7327|Casa Amarela|5406
+7329|Caxangá|5406
+7332|COHAB|5406
+7333|Coqueiral|5406
+7334|Cordeiro|5406
+7335|Córrego do Jenipapo|5406
+7341|Engenho do Meio|5406
+7344|Fundão|5406
+7345|Graças|5406
+7348|Ibura|5406
+7352|Imbiribeira|5406
+7353|Ipsep|5406
+7354|Iputinga|5406
+7358|Jordão|5406
+7359|Linha do Tiro|5406
+7361|Madalena|5406
+7367|Nova Descoberta|5406
+7369|Parnamirim|5406
+7371|Pina|5406
+7374|Porto da Madeira|5406
+7381|Santo Amaro|5406
+7383|São José|5406
+7384|Sítio dos Pintos|5406
+7391|Totó|5406
+7392|Várzea|5406
+7395|Capibaribe|5445
+7396|Centro|5445
+7397|Chã da Tábua|5445
+7402|Tiúma|5445
+7403|AABB|5453
+7404|Bom Jesus|5453
+7410|Tancredo Neves|5453
+7412|José Tomé de Souza Ramos|5453
+7418|Bela Vista|5503
+7419|Cajá|5503
+7422|Lídia Queiroz|5503
+7423|Livramento|5503
+7425|São Vicente de Paulo|5503
+7435|Igaraçu|5658
+7445|São Benedito|5658
+7449|São Vicente de Paula|5658
+7452|Água Mineral|5721
+7455|Angelim|5721
+7457|Areias|5721
+7458|Aroeiras|5721
+7460|Bela Vista|5721
+7461|Bom Jesus|5721
+7466|Campestre|5721
+7468|Centro|5721
+7469|Cidade Industrial|5721
+7479|Fátima|5721
+7482|Horto|5721
+7483|Ilhotas|5721
+7484|Ininga|5721
+7487|Jóquei|5721
+7489|Lourival Parente|5721
+7498|Monte Castelo|5721
+7506|Novo Horizonte|5721
+7512|Parque Piauí|5721
+7515|Pedra Mole|5721
+7533|Santa Cruz|5721
+7535|Santa Lia|5721
+7536|Santa Luzia|5721
+7538|Santana|5721
+7539|Santo Antônio|5721
+7540|São Cristóvão|5721
+7543|São Joaquim|5721
+7547|São Sebastião|5721
+7558|Vale Quem Tem|5721
+7559|Verde Lar|5721
+7573|Areias|5746
+7680|São Miguel|5746
+7682|Tranqueira|5746
+7908|Centro|5783
+7913|Conjunto Flamingos III|5783
+7920|Conjunto Palmares|5783
+7923|Conjunto Tropical|5783
+7933|Jardim Caravelle|5783
+7940|Jardim do Café|5783
+7942|Jardim do Sol|5783
+7960|Jardim Primavera|5783
+8050|Campina da Barra|5789
+8051|Capela Velha|5789
+8054|Costeira|5789
+8057|Iguaçu|5789
+8062|Thomaz Coelho|5789
+8080|Jardim Ana Eliza|5895
+8103|Jardim Santo Amaro|5895
+8156|Jardim Busmayer|5911
+8164|Jardim das Palmeiras|5911
+8169|Jardim Itaqui|5911
+8172|Jardim Lorenzete|5911
+8207|Loteamento São Gerônimo|5911
+8219|Núcleo Habitacional Doutor Abranches Guimarães|5911
+8220|Rondinha|5911
+8226|Vila Bancária|5911
+8235|Vila Dom Pedro|5911
+8285|Jardim Aeroporto|5914
+8344|Brasília|5941
+8349|Cataratas|5941
+8350|Centro|5941
+8351|Ciro Nardi|5941
+8355|Esmeralda|5941
+8356|Floresta|5941
+8360|Interlagos|5941
+8361|Maria Luiza|5941
+8370|Periolo|5941
+8379|Santa Cruz|5941
+8382|Santos Dumont|5941
+8383|São Cristóvão|5941
+8384|Universitário|5941
+8393|Invernada do Matadouro|5942
+8416|Campo Pequeno|5964
+8456|Das Graças|5964
+8566|Roça Grande|5964
+8620|Alto Boqueirão|6015
+8625|Bacacheri|6015
+8626|Bairro Alto|6015
+8627|Barreirinha|6015
+8628|Batel|6015
+8630|Boa Vista|6015
+8632|Boqueirão|6015
+8633|Butiatuvinha|6015
+8635|Cachoeira|6015
+8636|Cajuru|6015
+8638|Campo Comprido|6015
+8641|Capão da Imbuia|6015
+8645|Centro|6015
+8647|Cidade Industrial|6015
+8648|Cristo Rei|6015
+8652|Guabirotuba|6015
+8655|Hugo Lange|6015
+8657|Jardim das Américas|6015
+8662|Mercês|6015
+8664|Novo Mundo|6015
+8668|Pinheirinho|6015
+8669|Portão|6015
+8671|Rebouças|6015
+8673|Santa Cândida|6015
+8674|Santa Felicidade|6015
+8682|Seminário|6015
+8683|Sítio Cercado|6015
+8685|Tarumã|6015
+8686|Tatuquara|6015
+8687|Tingui|6015
+8688|Uberaba|6015
+8692|Xaxim|6015
+8698|Centro|6091
+8702|Cohapar II|6091
+8706|Vila Residencial A|6091
+8708|Vila C|6091
+8717|Conjunto Residencial Sol de Maio|6091
+8733|Jardim Bandeirantes|6091
+8777|Jardim Evangélico|6091
+8855|Loteamento Campos do Iguaçu|6091
+8900|Porto Belo|6091
+8924|Vila Portes|6091
+8943|Miniguaçu|6094
+8948|Pinheirinho|6094
+8958|Batel|6131
+8960|Boqueirão|6131
+8965|Industrial|6131
+8966|Jardim das Américas|6131
+8967|Morro Alto|6131
+8972|Trianon|6131
+8973|Vila Bela|6131
+8976|Centro|6257
+8978|Getúlio Vargas|6257
+8989|Aeroporto|6268
+9040|Brasília|6268
+9042|Cafezal|6268
+9063|Centro|6268
+9134|Esperança|6268
+9243|Jardim Rosicler|6268
+9280|Leonor|6268
+9285|Lindóia|6268
+9291|Luiz de Sá|6268
+9323|Nova Olinda|6268
+9433|Jardim Tabapuã|6268
+9449|Vale das Araucárias|6268
+9504|Conjunto Habitacional Inocente Vila Nova Júnior|6308
+9513|Conjunto Habitacional Sol Nascente|6308
+9518|Conjunto João de Barro Porto Seguro II|6308
+9534|Conjunto Residencial Rodolpho Bernardi|6308
+9544|Jardim Alvorada|6308
+9620|Jardim Tupinambá|6308
+9661|Parque Residencial Tuiuti|6308
+9675|Vila Nova|6308
+9680|Vila Santa Izabel|6308
+9721|Emboguaçu|6418
+9751|Vila Guarani|6418
+9752|Vila Paranaguá|6418
+9824|Jardim São Jorge|6420
+9856|Brasília|6427
+9858|Centro|6427
+9861|Fraron|6427
+9862|Dal' Ross|6427
+9987|Guarituba|6460
+10001|Jardim dos Estados 3|6460
+10014|Jardim Santa Mônica|6460
+10035|Planta Araçatuba|6460
+10067|Planta Santa Clara|6460
+10128|Cará-cará|6471
+10130|Chapada|6471
+10131|Colônia Dona Luíza|6471
+10132|Contorno|6471
+10134|Jardim Carvalho|6471
+10135|Neves|6471
+10136|Nova Rússia|6471
+10141|Periquitos|6471
+10142|Ronda|6471
+10143|Uvaranas|6471
+10145|Águas Belas|6656
+10154|Cidade Jardim|6656
+10160|Guatupê|6656
+10165|Rio Pequeno|6656
+10166|Roseira|6656
+10167|São Cristóvão|6656
+10181|Jardim Ana Elisa|6709
+10187|Jardim Cruzeiro|6709
+10196|Jardim Europa|6709
+10201|Jardim Independência|6709
+10203|Jardim Independência III|6709
+10210|Jardim Nova Independência I|6709
+10249|Parque Limeira Área III|6754
+10261|Jardim Bonavila|6754
+10280|Vila Santa Rita|6754
+10295|São Francisco|6770
+10358|Vila Industrial|6770
+10359|Vila Pioneiro|6770
+10453|Arthur Catalddi|6862
+10463|Carvão|6862
+10485|Oficinas Velhas|6862
+10486|Parque Almirante|6862
+10506|São Luís|6862
+10517|Ano Bom|6863
+10527|Boa Vista III|6863
+10564|Metalúrgico|6863
+10571|Morada do Vale|6863
+10623|Vila Nova|6863
+10630|9 de Abril|6863
+10634|Andrade Araujo|6865
+10647|Centro|6865
+10660|Bom Pastor|6865
+10687|Jardim Tupiara|6865
+10694|Malhapão|6865
+10712|Parque Colonial|6865
+10716|Parque Floresta|6865
+10732|Parque São Bernardo|6865
+10751|Santa Emilia|6865
+10759|Shangri-lá|6865
+10763|Sitio Retiro Feliz|6865
+10802|Vila Verde|6865
+10819|Jardim Caiçara|6873
+10825|Peró|6873
+10831|Manoel Correa|6873
+10839|Parque Riviera|6873
+10853|Bosque das Acácias|6881
+10857|Centro|6881
+10878|Parque Aeroporto|6881
+10884|Parque Boa Vista|6881
+10900|Parque Fundão|6881
+10904|Parque Jardim Carioca|6881
+10907|Parque Jóquei Club|6881
+10930|Parque São Caetano|6881
+10942|Parque Vera Cruz|6881
+10957|Centro|6912
+10960|Chácaras Rio-Petrópolis|6912
+10968|Graças|6912
+10980|Jardim Gramacho|6912
+10983|Jardim Leal|6912
+10984|Jardim Líder|6912
+10989|Jardim Olavo Bilac|6912
+10995|Jardim Primavera|6912
+11022|Parque Capivari|6912
+11032|Parque Felicidade|6912
+11036|Parque Independência|6912
+11042|Parque Moderno|6912
+11048|Parque Paulista|6912
+11060|Parque Senhor do Bonfim|6912
+11070|Santa Lúcia|6912
+11076|Silva|6912
+11080|Vila Actura|6912
+11103|Vila Leopoldina|6912
+11111|Vila Rosário|6912
+11112|Vila Santa Alice|6912
+11113|Vila Santa Cruz|6912
+11114|Vila Santo Antônio|6912
+11127|Águas Lindas|6943
+11130|Brisa Mar|6943
+11136|Chaperó|6943
+11139|Coroa Grande|6943
+11148|Ilha da Madeira|6943
+11163|Parque Jocimar|6943
+11208|Jardim Delamare|6955
+11217|Jardim São João|6955
+11223|Laranjal Santo Antônio|6955
+11240|Parque Marabá|6955
+11258|Santa Terezinha|6955
+11262|São Jorge|6955
+11266|Vila Carmelita|6955
+11285|Alto Cajueiros|6962
+11288|Barra de Macaé|6962
+11298|Cavaleiros|6962
+11299|Centro|6962
+11311|Lagomar|6962
+11320|Ajuda|6962
+11328|Parque Aeroporto|6962
+11344|Visconde de Araújo|6962
+11360|Camboinhas|6989
+11362|Caramujo|6989
+11365|Cubango|6989
+11369|Fonseca|6989
+11371|Icaraí|6989
+11374|Itacoatiara|6989
+11375|Itaipu|6989
+11376|Ititioca|6989
+11389|Mata Paca|6989
+11393|Piratininga|6989
+11412|Braunes|6993
+11416|Centro|6993
+11419|Conselheiro Paulino|6993
+11437|Olaria|6993
+11438|Parque Dom João VI|6993
+11475|Austin (Nova Iguaçu)|6994
+11476|Autódromo|6994
+11480|Bela Vista|6994
+11491|Califórnia|6994
+11498|Ponto Chic|6994
+11501|Cidade Jardim Parque Estoril|6994
+11506|Cuiabá|6994
+11522|Floresta|6994
+11541|Iolanda|6994
+11562|Jardim Iguaçu|6994
+11578|Jardim Nova Era|6994
+11580|Jardim Palmares|6994
+11594|Jardim Tropical|6994
+11605|Kennedy|6994
+11624|Comendador Soares|6994
+11650|Geneciano|6994
+11651|Parque Horizonte|6994
+11700|Santa Eugênia|6994
+11786|Vila Santa Teresinha de Jesus|6994
+11793|Vila São Luis|6994
+11810|Araras|7012
+11818|Cascatinha|7012
+11819|Castelanea|7012
+11825|Corrêas|7012
+11827|Duarte Silveira|7012
+11833|Fazenda Inglesa|7012
+11838|Itaipava|7012
+11839|Itamarati|7012
+11844|Mosela|7012
+11845|Nogueira|7012
+11864|Saldanha Marinho|7012
+11981|Parque Eldorado|7031
+12005|Parque Valdairosa|7031
+12011|Queimados|7031
+12065|Vila Nanci|7031
+12090|Alegria|7035
+12091|Alvorada|7035
+12145|Acari|7043
+12147|Alto da Boa Vista|7043
+12148|Anchieta|7043
+12150|Anil|7043
+12152|Baia de Guanabara|7043
+12154|Bangu|7043
+12155|Barra da Tijuca|7043
+12158|Benfica|7043
+12161|Botafogo|7043
+12170|Campo Grande|7043
+12171|Cascadura|7043
+12173|Catumbi|7043
+12175|Centro|7043
+12176|Cidade de Deus|7043
+12177|Cidade Nova|7043
+12180|Coelho Neto|7043
+12182|Copacabana|7043
+12185|Cosmos|7043
+12195|Engenho da Rainha|7043
+12200|Freguesia (Ilha do Governador)|7043
+12210|Guaratiba|7043
+12211|Higienópolis|7043
+12214|Inhaúma|7043
+12215|Inhoaíba|7043
+12216|Ipanema|7043
+12217|Irajá|7043
+12219|Itanhangá|7043
+12222|Jacarepaguá|7043
+12223|Jardim América|7043
+12224|Jardim Botânico|7043
+12225|Jardim Carioca|7043
+12226|Jardim Guanabara|7043
+12240|Magalhães Bastos|7043
+12241|Mangueira|7043
+12242|Manguinhos|7043
+12244|Marechal Hermes|7043
+12245|Maria da Graça|7043
+12246|Méier|7043
+12250|Olaria|7043
+12251|Oswaldo Cruz|7043
+12252|Paciência|7043
+12253|Padre Miguel|7043
+12257|Pavuna|7043
+12262|Piedade|7043
+12263|Pilares|7043
+12265|Portuguesa|7043
+12266|Praça da Bandeira|7043
+12267|Praça Seca|7043
+12268|Praia da Bandeira|7043
+12270|Quintino Bocaiúva|7043
+12271|Ramos|7043
+12272|Realengo|7043
+12276|Ricardo de Albuquerque|7043
+12283|Santa Cruz|7043
+12284|Santa Teresa|7043
+12285|Santíssimo|7043
+12288|São Cristóvão|7043
+12292|Senador Camará|7043
+12293|Senador Vasconcelos|7043
+12294|Sepetiba|7043
+12295|Tanque|7043
+12296|Taquara|7043
+12297|Tauá|7043
+12298|Tijuca|7043
+12305|Urca|7043
+12311|Vigário Geral|7043
+12317|Vila Militar|7043
+12324|Amendoeira|7067
+12340|Colubande|7067
+12343|Engenho Pequeno|7067
+12345|Galo Branco|7067
+12347|Guaxindiba|7067
+12350|Itaoca|7067
+12351|Itaúna|7067
+12355|Jardim Catarina|7067
+12360|Laranjal|7067
+12366|Maria Paula|7067
+12368|Monjolos|7067
+12376|Nova Cidade|7067
+12387|Porto do Rosa|7067
+12388|Porto Novo|7067
+12395|Rocha|7067
+12400|Santa Isabel|7067
+12418|Agostinho Porto|7069
+12421|Coelho da Rocha|7069
+12434|Jardim José Bonifácio|7069
+12438|Jardim Meriti|7069
+12464|Parque Tietê|7069
+12468|Tomazinho|7069
+12480|Vila Jurandir|7069
+12489|Vila São João|7069
+12499|Albuquerque|7102
+12524|Caleme|7102
+12525|Campanha|7102
+12531|Carlos Guinle|7102
+12532|Cascata do Imbuí|7102
+12624|Vargem Grande|7102
+12634|Boa União|7107
+12635|Caixa D'Água|7107
+12637|Centro|7107
+12642|Monte Castelo|7107
+12644|Moura Brasil|7107
+12654|Santa Teresinha|7107
+12657|Vila Isabel|7107
+12663|Água Limpa|7121
+12670|Brasilândia|7121
+12671|Caieira|7121
+12678|Conforto|7121
+12696|Jardim Veneza|7121
+12697|Jardim Vila Rica - Tiradentes|7121
+12698|Laranjal|7121
+12705|Morro da Conquista|7121
+12708|Nossa Senhora das Graças|7121
+12717|Retiro|7121
+12729|São João|7121
+12735|Siderlândia|7121
+12752|Abolição|7220
+12753|Aeroporto|7220
+12756|Alto de São Manoel|7220
+12759|Belo Horizonte|7220
+12773|Presidente Costa e Silva|7220
+12779|Candelária|7221
+12780|Capim Macio|7221
+12781|Cidade Alta|7221
+12782|Cidade da Esperança|7221
+12784|Dix-Sept Rosado|7221
+12785|Felipe Camarão|7221
+12787|Igapó|7221
+12788|Lagoa Azul|7221
+12789|Lagoa Nova|7221
+12792|Neópolis|7221
+12794|Nossa Senhora da Apresentação|7221
+12796|Nova Descoberta|7221
+12797|Pajuçara|7221
+12800|Pitimbu|7221
+12801|Ponta Negra|7221
+12802|Potengi|7221
+12804|Quintas|7221
+12805|Redinha|7221
+12810|Tirol|7221
+12814|Jardim Jorge Teixeira|7315
+12817|Parque das Gemas|7315
+12820|Setor 01|7315
+12821|Setor 10|7315
+12822|Setor 11|7315
+12827|Setor 06|7315
+12830|Setor 09|7315
+12832|Centro|7319
+12840|Liberdade|7319
+12853|Centro|7336
+12857|Jardim dos Migrantes|7336
+12860|Nova Brasília|7336
+12862|Primavera|7336
+12878|Caladinho|7352
+12893|Três Marias|7352
+12894|Juscelino Kubitschek|7352
+12908|Costa e Silva|7352
+12919|Flodoaldo Pontes Pinto|7352
+12925|Lagoa|7352
+12930|Mato Grosso|7352
+12938|Nova Floresta|7352
+12939|Nova Porto Velho|7352
+12957|São João Bosco|7352
+12958|São Sebastião|7352
+12962|Triângulo|7352
+12977|Calungá|7375
+12989|Mecejana|7375
+12997|São Vicente|7375
+13002|Balneário Caverá|7396
+13006|Centro|7396
+13031|Aparecida|7408
+13034|Jardim Algarve|7408
+13035|Maria Regina|7408
+13036|Maringá|7408
+13037|Passo do Feijó|7408
+13038|Piratini|7408
+13040|Sumaré|7408
+13045|Castro Alves|7439
+13052|Passo do Príncipe|7439
+13064|Barcelos|7501
+13087|Santo Antônio|7501
+13110|Vila Eunice Nova|7502
+13126|Vila Vista Alegre|7502
+13128|Estância Velha|7533
+13131|Marechal Rondon|7533
+13136|Rio Branco|7533
+13139|Igara|7533
+13143|Bela Vista|7566
+13145|Charqueadas|7566
+13147|Cristo Redentor|7566
+13162|Madureira|7566
+13163|Marechal Floriano|7566
+13165|Medianeira|7566
+13175|Sagrada Família|7566
+13177|Salgado Filho|7566
+13178|Santa Catarina|7566
+13181|São Ciro|7566
+13186|Serrano|7566
+13191|Centro|7632
+13246|Parque Primavera|7697
+13249|Tamandaré|7697
+13251|São Sebastião|7697
+13261|Três Portos|7697
+13262|Águas Mortas|7748
+13263|Barnabé|7748
+13266|Bom Sucesso|7748
+13267|Caça e Pesca|7748
+13273|COHAB B|7748
+13281|Jansen|7748
+13282|Jardim do Cedro|7748
+13289|Monte Belo|7748
+13291|Morada do Vale II|7748
+13292|Morada do Vale III|7748
+13301|Parque Florido|7748
+13302|Parque Ipiranga|7748
+13303|Parque Itacolomi|7748
+13309|Recanto Corcunda|7748
+13332|Canudos|7918
+13335|Hamburgo Velho|7918
+13339|Lomba Grande|7918
+13341|Operário|7918
+13342|Ouro Branco|7918
+13344|Petrópolis|7918
+13345|Primavera|7918
+13350|Santo Afonso|7918
+13388|Vila Victor Issler|7953
+13398|São Cristóvão|7953
+13400|São José|7953
+13434|Petrópolis|7953
+13442|Santa Marta|7953
+13449|Vera Cruz|7953
+13453|Areal|7965
+13454|Centro|7965
+13455|Fragata|7965
+13456|Laranjal|7965
+13457|Porto|7965
+13459|Três Vendas|7965
+13460|Aberta dos Morros|7994
+13467|Belém Novo|7994
+13469|Boa Vista|7994
+13471|Bom Jesus|7994
+13473|Cascata|7994
+13475|Centro Histórico|7994
+13478|Cidade Baixa|7994
+13480|Cristal|7994
+13483|Farrapos|7994
+13486|Glória|7994
+13490|Humaitá|7994
+13491|Independência|7994
+13492|Ipanema|7994
+13497|Jardim Itu Sabará|7994
+13498|Jardim Lindóia|7994
+13500|Lageado|7994
+13502|Lomba do Pinheiro|7994
+13505|Menino Deus|7994
+13511|Partenon|7994
+13512|Passo da Areia|7994
+13515|Petrópolis|7994
+13518|Protásio Alves|7994
+13519|Restinga|7994
+13521|Rubem Berta|7994
+13523|Santa Maria Goretti|7994
+13531|Sarandi|7994
+13539|Vila Ipiranga|7994
+13541|Vila João Pessoa|7994
+13544|Bolaxa|8041
+13545|Cassino|8041
+13562|Profilurbi|8041
+13580|Zona Portuária|8041
+13581|Arroio Grande|8079
+13584|Centro|8079
+13602|Universitário|8079
+13611|Tancredo Neves|8087
+13613|Juscelino Kubitschek|8087
+13615|Nossa Senhora Medianeira|8087
+13620|Pinheiro Machado|8087
+13622|Patronato|8087
+13634|Aliança|8104
+13651|Haller|8104
+13684|Rosenthal|8104
+13695|Arroio da Manteiga|8146
+13698|Campina|8146
+13701|Duque de Caxias|8146
+13702|Feitoria|8146
+13718|Scharlau|8146
+13719|Vicentina|8146
+13725|Colonial|8181
+13727|Fortuna|8181
+13728|Freitas|8181
+13740|Primor|8181
+13750|Centro|8278
+13766|Vila Júlia|8278
+13768|Estalagem|8294
+13770|Jardim Krahe|8294
+13775|Planalto|8294
+13778|Santa Isabel|8294
+13781|São Tomé|8294
+13782|Sitio São José|8294
+13783|Tarumã|8294
+13784|Viamópolis|8294
+13785|Vila Augusta|8294
+13788|Badenfurt|8377
+13797|Itoupava Central|8377
+13798|Itoupava Norte|8377
+13800|Itoupavazinha|8377
+13802|Passo Manso|8377
+13805|Progresso|8377
+13806|Ribeirão Fresco|8377
+13807|Do Salto|8377
+13809|Salto Weissbach|8377
+13811|Valparaiso|8377
+13812|Velha|8377
+13817|Águas Claras|8390
+13818|Azambuja|8390
+13819|Bateas|8390
+13822|Dom Joaquim|8390
+13827|Nova Brasília|8390
+13831|Rio Branco|8390
+13833|Santa Rita|8390
+13834|Santa Terezinha|8390
+13835|São Luiz|8390
+13838|Steffen|8390
+13844|Cristo Rei|8419
+13849|Jardim Itália|8419
+13850|Líder|8419
+13853|Passo dos Fortes|8419
+13854|Presidente Médici|8419
+13857|Santa Maria|8419
+13860|São Pedro|8419
+13871|Colonial|8430
+13873|Comerciário|8430
+13875|Cruzeiro do Sul|8430
+13883|Metropol|8430
+13886|Mina do Mato|8430
+13891|Nossa Senhora da Salete|8430
+13899|Quarta Linha|8430
+13901|Sangão|8430
+13902|Santa Augusta|8430
+13904|Santa Catarina|8430
+13913|São Simão|8430
+13922|Agronômica|8452
+13925|Barra da Lagoa|8452
+13931|Campeche|8452
+13932|Canasvieiras|8452
+13933|Capoeiras|8452
+13936|Centro|8452
+13944|Ingleses do Rio Vermelho|8452
+13947|Jardim Atlântico|8452
+13950|Lagoa da Conceição|8452
+13952|Pantanal|8452
+13959|São João do Rio Vermelho|8452
+13960|Saco dos Limões|8452
+13961|Saco Grande|8452
+13966|Trindade|8452
+13972|Centro|8507
+13976|Fazenda|8507
+13982|Ressacada|8507
+13985|São João|8507
+13987|São Vicente|8507
+13993|Barra do Rio Molha|8518
+13995|Centro|8518
+13998|Estrada Nova|8518
+13999|Ilha da Figueira|8518
+14000|Jaraguá Esquerdo|8518
+14003|Nereu Ramos|8518
+14019|Vila Lalau|8518
+14027|Boa Vista|8521
+14032|Comasa|8521
+14033|Costa e Silva|8521
+14036|Fátima|8521
+14042|Itinga|8521
+14047|João Costa|8521
+14048|Morro do Meio|8521
+14049|Nova Brasília|8521
+14050|Paranaguamirim|8521
+14052|Pirabeiraba (Pirabeiraba)|8521
+14067|Caroba|8525
+14069|Centenário|8525
+14072|Conta Dinheiro|8525
+14073|Copacabana|8525
+14074|Coral|8525
+14079|Gethal|8525
+14106|Santa Maria|8525
+14107|Santa Mônica|8525
+14120|Universitário|8525
+14137|Ponte do Imaruim|8589
+14138|Praia de Fora|8589
+14144|Bela Vista|8700
+14148|Fazenda Santo Antônio|8700
+14149|Forquilhas|8700
+14152|São Luiz|8700
+14155|Picadas do Sul|8700
+14159|Roçado|8700
+14165|Centro|8742
+14178|Passo do Gado|8742
+14185|São João (Margem Esquerda)|8742
+14191|Aeroporto|8770
+14194|Bugio|8770
+14197|Cidade Nova|8770
+14200|Dezoito do Forte|8770
+14201|Farolândia|8770
+14203|Grageru|8770
+14204|Inácio Barbosa|8770
+14205|Industrial|8770
+14208|Jardins|8770
+14211|Luzia|8770
+14212|Zona de Expansão (Mosqueiro)|8770
+14215|Palestina|8770
+14216|Pereira Lobo|8770
+14219|Zona de Expansão (Robalo)|8770
+14221|Santo Antônio|8770
+14222|Santos Dumont|8770
+14223|São Conrado|8770
+14228|Santa Maria|8770
+14231|Antônio Zanaga I|8883
+14246|Centro|8883
+14257|Iate Clube de Americana|8883
+14271|Jardim Girassol|8883
+14281|Jardim Nossa Senhora Aparecida|8883
+14289|Jardim Santana|8883
+14295|Jardim São Roque|8883
+14312|Parque Dom Pedro II|8883
+14342|São Sebastião|8883
+14356|Vila Louricilda|8883
+14376|Centro|8886
+14417|Jardim Santa Helena|8886
+14431|Jardim Silvestre I|8886
+14480|Vila Feltrini|8891
+14494|Bairro das Bandeiras|8907
+14511|Chácaras TV|8907
+14512|Chácaras Versalhes|8907
+14516|Conjunto Habitacional Clóvis Valentin Picolotto|8907
+14519|Conjunto Habitacional Ezequiel Barbosa|8907
+14549|Dona Amélia|8907
+14561|Jardim Nova Yorque|8907
+14570|Primavera|8907
+14577|Morada dos Nobres|8907
+14588|São João|8907
+14590|São Vicente|8907
+14609|Chácara Flora Araraquara|8912
+14663|Jardim Eliana|8912
+14668|Jardim Guanabara|8912
+14686|Jardim Padre Anchieta|8912
+14688|Jardim Panorama|8912
+14697|Jardim Residencial Água Branca|8912
+14703|Jardim Roberto Selmi Dei|8912
+14708|Jardim Santa Lúcia|8912
+14745|Residencial Cambuy|8912
+14769|Vila Melhado|8912
+14781|Vila Santana|8912
+14790|Vila Yamada|8912
+14822|Jardim José Ometto II|8913
+14824|Jardim Luiza Maria|8913
+14856|Parque Industrial|8913
+14858|Parque Tiradentes|8913
+14862|Vila Dona Rosa Zurita|8913
+14877|Centro|8926
+14902|Núcleo Habitacional Dirceu Gomes Cervilha|8926
+14904|Parque das Flores|8926
+14914|Vila Cambuí|8926
+14924|Vila Funari|8926
+14928|Vila Maria|8926
+14943|Vila Ribeiro|8926
+14966|Alvinópolis|8928
+14967|Atibaia Belvedere|8928
+14978|Centro|8928
+15027|Jardim Alvinópolis|8928
+15029|Jardim do Lago|8928
+15036|Jardim Estância Brasil|8928
+15066|Jardim Sueli|8928
+15115|Retiro das Fontes|8928
+15135|Loteamento Loanda|8928
+15178|Jardim Boa Vista|8933
+15184|Jardim Paraíso|8933
+15197|Loteamento Terras de São José|8933
+15198|Morada do Sol|8933
+15252|City Barretos|8954
+15256|Cristiano de Carvalho|8954
+15259|Distrito Industrial II|8954
+15282|Jardim Nova Barretos|8954
+15285|Jardim Silvia|8954
+15286|Jardim Soares|8954
+15367|Jardim dos Camargos|8956
+15368|Jardim Esperança|8956
+15372|Jardim Itaparica|8956
+15373|Jardim Itaquiti|8956
+15451|Centro|8961
+15544|Jardim Mary|8961
+15581|Novo Jardim Pagani|8961
+15584|Núcleo Habitacional José Regino|8961
+15585|Núcleo Habitacional Mary Dota|8961
+15592|Núcleo Residencial Edison Bastos Gasparini|8961
+15606|Parque Fortaleza|8961
+15613|Parque Júlio Nóbrega|8961
+15620|Parque Residencial Castelo|8961
+15623|Parque Residencial Jardim Araruna|8961
+15626|Parque Santa Cândida|8961
+15659|Tangarás|8961
+15660|Vale do Igapó|8961
+15703|Vila Industrial|8961
+15724|Vila Nova Santa Luzia|8961
+15745|Vila Santa Rosa|8961
+15746|Vila Santa Tereza|8961
+15755|Vila São Paulo|8961
+15769|Centro|8962
+15781|Jardim Casagrande|8962
+15797|Jardim Menino Deus I|8962
+15825|Residencial Vale do Sol|8962
+15869|Jardim Jussara Maria|8969
+15886|Jardim São Conrado|8969
+15888|Jardim São Genaro|8969
+15914|Recanto Verde|8969
+15932|Vila Guanabara|8969
+15971|Conjunto Residencial Indamar|8989
+15987|Jardim Cristina|8989
+16001|Jardim Paraíso II|8989
+16076|Vila Santa Clara|8989
+16090|Centro|8992
+16130|Jardim Santa Rita de Cássia|8992
+16133|Jardim São José|8992
+16174|Vila Municipal|8992
+16196|Jardim Caçapava|9005
+16230|Vila Galvão|9005
+16267|Bosque das Palmeiras|9025
+16271|Cambuí|9025
+16306|Cidade Jardim|9025
+16315|Conjunto Habitacional Padre Anchieta|9025
+16316|Conjunto Habitacional Parque Itajaí|9025
+16319|Conjunto Habitacional Vida Nova|9025
+16326|Conjunto Residencial Parque São Bento|9025
+16336|Dic V (Conjunto Habitacional Chico Mendes)|9025
+16341|Parque Rural Fazenda Santa Cândida|9025
+16350|Jardim Adhemar de Barros|9025
+16382|Jardim Bom Retiro|9025
+16395|Jardim Campos Elíseos|9025
+16401|Jardim Chapadão|9025
+16411|Jardim dos Oliveiras|9025
+16414|Jardim do Lago|9025
+16455|Jardim Leonor|9025
+16487|Jardim Nossa Senhora Auxiliadora|9025
+16493|Jardim Nova Mercedes|9025
+16494|Jardim Nova Morada|9025
+16518|Jardim Planalto de Viracopos|9025
+16558|Jardim São Domingos|9025
+16580|Jardim Sorirama (Sousas)|9025
+16593|Loteamento Caminhos de São Conrado (Sousas)|9025
+16606|Loteamento Residencial Novo Mundo|9025
+16638|Parque Fazendinha|9025
+16669|Parque Residencial Vila União|9025
+16670|Parque Santa Bárbara|9025
+16674|Parque São Quirino|9025
+16689|Recanto dos Dourados|9025
+16709|Sousas|9025
+16734|Vila Castelo Branco|9025
+16792|Vila Nova|9025
+16800|Vila Palmeiras I|9025
+16835|Vila Tancredo Neves|9025
+16836|Vila Teixeira|9025
+16864|Jardim Europa|9026
+16866|Jardim Guanciale|9026
+16868|Jardim Marcheti|9026
+16875|Jardim Santa Lúcia|9026
+16917|Jardim Alvorada|9037
+16919|Jardim Cruzeiro|9037
+16936|Vila Nova Capão Bonito|9037
+16938|Vila Santa Isabel|9037
+16956|Indaiá|9043
+16971|Massaguaçu|9043
+16972|Morro do Algodão|9043
+16979|Jardim Porto Novo|9043
+16980|Praia das Palmeiras|9043
+16982|Rio do Ouro|9043
+16983|Sumaré|9043
+16986|Travessão|9043
+17014|Jardim Ana Estela|9044
+17016|Jardim Ângela Maria|9044
+17029|Jardim dos Manacás|9044
+17049|Jardim Planalto|9044
+17081|Residencial Euroville|9044
+17102|Vila Gobbi|9044
+17117|Vila Mercês|9044
+17150|Conjunto Habitacional Prefeito João Righini|9052
+17153|Distrito Industrial Antônio Zácaro|9052
+17181|Jardim Pedro Borgoni|9052
+17213|Parque Residencial Agudo Romão|9052
+17243|Água Espraiada (Caucaia do Alto)|9082
+17251|Centro|9082
+17252|Centro (Caucaia do Alto)|9082
+17270|Granja Viana II|9082
+17279|Jardim Barro Branco|9082
+17313|Jardim Nova Vida|9082
+17326|Jardim Sabiá|9082
+17352|Parque Mirante da Mata|9082
+17358|Parque São George|9082
+17392|Jardim América|9087
+17403|Retiro da Mantiqueira|9087
+17416|Vila Doutor João Batista (Parte Baixa)|9087
+17449|Jardim das Indústrias|9088
+17451|Jardim São Francisco|9088
+17460|Vila Caraguata|9088
+17474|Vila São José|9088
+17477|Casa Grande|9094
+17478|Centro|9094
+17482|Eldorado|9094
+17517|Inamar|9094
+17572|Serraria|9094
+17574|Taboão|9094
+17604|Vila Nogueira|9094
+17630|Centro|9113
+17643|Chácaras Lidia|9113
+17658|Jardim do Colégio|9113
+17663|Jardim de Lourdes|9113
+17672|Jardim Fabiana|9113
+17699|Jardim Pinheiros|9113
+17712|Jardim Santo Antônio|9113
+17716|Jardim São Marcos|9113
+17725|Jardim Vista Alegre|9113
+17751|Moinho Velho|9113
+17763|Chácara Descansolândia|9138
+17784|Jardim Cambiri|9138
+17798|Jardim Figueiredo|9138
+17823|Jardim Renata|9138
+17832|Jardim São João|9138
+17905|Vila São Paulo|9138
+17927|Jardim Aeroporto III|9144
+17961|Jardim Luiza|9144
+17976|Jardim Paulista|9144
+17977|Jardim Paulistano|9144
+17981|Jardim Planalto|9144
+18023|Parque das Esmeraldas|9144
+18024|Parque do Castelo|9144
+18025|Parque do Horto|9144
+18029|Parque dos Pinhais|9144
+18034|Parque Moema|9144
+18035|Parque Mundo Novo|9144
+18056|Prolongamento Jardim Ângela Rosa|9144
+18061|Prolongamento Jardim Doutor Antônio Petráglia|9144
+18092|Recreio Campo Belo|9144
+18096|Residencial Moreira Júnior|9144
+18110|Vila Aparecida|9144
+18189|Jardim Constância|9145
+18200|Jardim Nossa Senhora Aparecida|9145
+18210|Jardim Rogerio Levorin|9145
+18245|Residencial São Luis|9145
+18275|Glebas|9146
+18287|Jardim Luciana|9146
+18321|Vila Ida|9146
+18358|Bosque dos Ipês|9177
+18360|Campo do Galvão|9177
+18413|Pedregulho|9177
+18425|Rocinha|9177
+18433|Jardim Tamandaré|9177
+18440|Vila Comendador Rodrigues Alves|9177
+18457|Acapulco|9182
+18514|Sítio Paecara (Vicente de Carvalho)|9182
+18542|Cidade Brasil|9183
+18543|Cidade Industrial Satélite de São Paulo|9183
+18551|Cidade Seródio|9183
+18552|Cidade Soberana|9183
+18554|Cidade Tupinambá|9183
+18579|Jardim Anny|9183
+18589|Jardim Bela Vista|9183
+18591|Jardim Betel|9183
+18592|Jardim Bom Clima|9183
+18604|Jardim Cristina|9183
+18611|Jardim dos Pimentas|9183
+18617|Jardim Dona Meri|9183
+18626|Jardim Fátima|9183
+18627|Jardim Ferrão|9183
+18631|Jardim Fortaleza|9183
+18649|Jardim Jade|9183
+18655|Jardim Leblon|9183
+18658|Jardim Lenize|9183
+18667|Jardim Marilena|9183
+18674|Jardim Munhoz|9183
+18685|Jardim Ottawa|9183
+18689|Jardim Paulista|9183
+18693|Jardim Presidente Dutra|9183
+18700|Jardim Rosana|9183
+18712|Jardim Santa Mena|9183
+18719|Jardim São Domingos|9183
+18720|Jardim São Francisco|9183
+18729|Jardim São Paulo|9183
+18754|Macedo|9183
+18756|Parque Continental|9183
+18767|Parque Santos Dumont|9183
+18772|Jardim Ponte Alta I|9183
+18773|Ponte Grande|9183
+18777|Recreio São Jorge|9183
+18785|Vila Adelaide Perella|9183
+18794|Vila Augusta|9183
+18804|Vila Capitão Rabelo|9183
+18811|Vila da Fábrica|9183
+18824|Vila Flora|9183
+18825|Vila Flórida|9183
+18863|Vila Nova Bonsucesso|9183
+18869|Vila Pedro Moreira|9183
+18896|Vila São Paulo|9183
+18929|Jardim Boa Vista|9189
+18931|Jardim Carmen Cristina|9189
+18947|Jardim Nossa Senhora Auxiliadora|9189
+18961|Jardim Santa Emília|9189
+18964|Jardim Santa Izabel|9189
+19003|Chácara Polaris|9216
+19011|Colinas do Mosteiro de Itaici|9216
+19053|Jardim Morada do Sol|9216
+19084|Jardim Tancredo Neves|9216
+19148|Vila Furlan|9216
+19155|Vila Maria Helena|9216
+19221|Jardim Sampaio|9239
+19223|Jardim Santa Júlia|9239
+19234|Olaria|9239
+19237|Parque Jandaia|9239
+19244|Potuverá|9239
+19265|Jardim Bela Vista|9240
+19279|Jardim Marabá|9240
+19285|Jardim Nova Era|9240
+19297|Tupy|9240
+19298|Vale San Fernando|9240
+19349|Vila Prado|9240
+19353|Vila Regina|9240
+19373|Centro|9242
+19416|Vila Aparecida|9242
+19454|Conjunto Habitacional - Setor A|9243
+19497|Jardim Rosemary|9243
+19516|Parque Mira Flores|9243
+19524|São João|9243
+19590|Nova Itapira|9244
+19592|Parque Fortaleza|9244
+19611|Vila Santa Marta|9244
+19612|Vila Vieira|9244
+19616|Campo da Venda|9250
+19642|Jardim do Algarve|9250
+19644|Jardim Altos de Itaquá|9250
+19694|Jardim Paineira|9250
+19704|Jardim São Jerônimo|9250
+19709|Jardim Valparaíso|9250
+19718|Parque Nossa Senhora das Graças|9250
+19720|Parque Piratininga|9250
+19726|Parque Residencial Scaffid II|9250
+19780|Vila Virgínia|9250
+19806|Jardim de Lucca|9254
+19820|Jardim México|9254
+19842|Jardim Virgínia|9254
+19844|Loteamento Caminhos do Sol|9254
+19851|Nova Itatiba|9254
+19869|Bairro da Ponte|9254
+19876|Recanto dos Pássaros|9254
+19887|Vila Brasileira|9254
+19896|Vila Penteado|9254
+19907|Brasil|9260
+19922|Cidade Nova II|9260
+19925|Cruz das Almas|9260
+19928|Jardim Aeroporto I|9260
+19951|Liberdade|9260
+19959|Parque Residencial Guitti|9260
+20001|Conjunto Habitacional Hugo Lacorte Vitalle II|9265
+20102|Cidade Salvador|9267
+20140|Jardim Emília|9267
+20199|Parque Itamarati|9267
+20214|Rio Abaixo|9267
+20260|Jardim Alvorada|9277
+20274|Jardim Gabriela I|9277
+20283|Jardim Nossa Senhora de Fátima|9277
+20293|Jardim Sol Nascente|9277
+20328|Vila São Nicolau|9277
+20347|Jardim América|9285
+20348|Jardim Ana Carolina|9285
+20361|Jardim das Paineiras|9285
+20374|Jardim Nova Jaú|9285
+20376|Jardim Odete|9285
+20382|Jardim Pedro Ometto|9285
+20426|Vila Sampaio Bueno|9285
+20439|Bela Vista|9295
+20512|Jardim das Tulipas|9295
+20544|Jardim Pacaembu|9295
+20560|Jardim Santa Gertrudes|9295
+20576|Jardim Tamoio|9295
+20613|Ponte de São João|9295
+20618|Retiro|9295
+20633|Vila Aparecida|9295
+20692|Vila Nova Esperia|9295
+20709|Vila Salermo|9295
+20716|Vila São João Batista|9295
+20734|Barra Funda|9315
+20738|Cidade Jardim|9315
+20754|Jardim Amália|9315
+20784|Jardim São José|9315
+20861|Núcleo Habitacional Luis Zillo|9316
+20888|Vila São Judas Tadeu|9316
+20891|Centro|9317
+20952|Jardim Laranjeiras|9317
+20963|Jardim Nereide|9317
+21001|Jardim Santa Eulália|9317
+21011|Jardim São Manoel|9317
+21017|Jardim Senador Vergueiro|9317
+21046|Residencial Antônio Brigato|9317
+21072|Vila Mathias|9317
+21073|Vila Nova|9317
+21099|Centro|9319
+21108|Jardim Aeroporto|9319
+21113|Jardim Ariano|9319
+21125|Jardim Linense|9319
+21156|Parque Xingu|9319
+21163|Residencial Jardim do Sol|9319
+21169|Vila Alta|9319
+21180|Vila Ester|9319
+21190|Vila Paulista|9319
+21198|Vila São José|9319
+21203|Centro|9321
+21205|Cruz|9321
+21216|Nova Lorena|9321
+21219|Parque Mondesir|9321
+21266|César de Almeida|9348
+21277|Distrito Industrial|9348
+21332|Jardim Marília|9348
+21334|Jardim Morumbi|9348
+21343|Jardim Polyana|9348
+21344|Jardim Portal do Sol|9348
+21348|Jardim Santa Antonieta|9348
+21375|Núcleo Habitacional Castelo Branco|9348
+21390|Palmital|9348
+21445|Vila Operária Alimentação I|9348
+21449|Alto|9354
+21461|Jardim Ballista|9354
+21463|Jardim Buscardi|9354
+21484|Nova Matão|9354
+21508|Jardim Bela Vista|9355
+21511|Jardim Camila|9355
+21534|Jardim Paulista|9355
+21554|Jardim Zaira|9355
+21555|Matriz|9355
+21559|Parque das Américas|9355
+21580|Vila Mercedes|9355
+21592|Brás|9368
+21617|Jardim Santa Cecília|9368
+21624|Núcleo Habitacional Nenê Pereira Lima|9368
+21635|Alto Ipiranga|9369
+21637|Braz Cubas|9369
+21639|Centro|9369
+21641|Cézar de Souza|9369
+21665|Jardim Camila|9369
+21678|Jardim Layr|9369
+21679|Jardim Marica|9369
+21699|Jardim São Pedro|9369
+21713|Parque Ponte Grande|9369
+21740|Vila Industrial|9369
+21749|Vila Mogilar|9369
+21752|Vila Nova Aparecida|9369
+21791|Arruamento Primavera|9370
+21834|Jardim Ipê I|9370
+21836|Jardim Ipê III|9370
+21841|Jardim Jacira|9370
+21861|Jardim Santa Terezinha|9370
+21878|Loteamento Cidade Nova Mogi-Guaçu|9370
+21899|Vila Maria|9370
+21916|Centro|9371
+21929|Jardim Bi-Centenário|9371
+21997|Vila Bianchi|9371
+22015|Centro|9432
+22023|Metalúrgicos|9432
+22030|Adalgisa|9432
+22040|Bela Vista|9432
+22061|Conceição|9432
+22062|Jardim D'Abril|9432
+22118|Novo Osasco|9432
+22123|Padroeira|9432
+22141|Santo Antônio|9432
+22170|Munhoz Júnior|9432
+22184|km 18|9432
+22187|Rochdale|9432
+22225|Vila Menck|9432
+22259|Vila Yara|9432
+22260|Vila Yolanda|9432
+22261|Centro|9435
+22271|Conjunto Habitacional Orlando Quagliato|9435
+22283|Jardim Anchieta|9435
+22321|Jardim São Domingos|9435
+22348|Vila Christoni|9435
+22372|Vila São Silvestre|9435
+22383|Centro|9485
+22430|Jardim Santa Luzia|9485
+22498|Alemães|9493
+22502|Campestre|9493
+22512|Dois Córregos|9493
+22528|Jardim Alvorada|9493
+22544|Jardim Elite|9493
+22550|Jardim Glória|9493
+22555|Jardim Irapuã|9493
+22577|Jardim Residencial Javary I|9493
+22602|Morumbi|9493
+22626|Piracicamirim|9493
+22633|Santa Rita|9493
+22659|Centro|9501
+22660|Cidade Jardim|9501
+22720|Vila São Pedro|9501
+22721|Vila Steola|9501
+22725|Calmon Viana|9508
+22735|Jardim Áurea|9508
+22757|Jardim Obelisco|9508
+22765|Jardim Ruth|9508
+22801|Vila Ibar|9508
+22807|Vila Lúcia|9508
+22844|Canto do Forte|9527
+22845|Cidade da Criança|9527
+22846|Ocian|9527
+22851|Glória|9527
+22876|Solemar|9527
+22892|Vila Sônia|9527
+22899|Brasil Novo|9532
+22916|Conjunto Habitacional Ana Jacinta|9532
+22919|Conjunto Habitacional Jardim Humberto Salvador|9532
+22942|Jardim Cobral|9532
+22970|Jardim Novo Bongiovani|9532
+22987|Jardim Santa Fé|9532
+22988|Jardim Santa Filomena|9532
+22990|Jardim Santa Mônica|9532
+23026|Parque Residencial Damha|9532
+23048|Vila Angélica|9532
+23097|Vila Mathilde Vieira|9532
+23132|Centro|9559
+23274|Adelino Simioni|9560
+23275|Alto da Boa Vista|9560
+23279|Campos Elíseos|9560
+23303|Independência|9560
+23334|Jardim Jandaia|9560
+23338|Jardim José Sampaio Júnior|9560
+23344|Jardim Marchesi|9560
+23358|Jardim Recreio|9560
+23385|Parque Ribeirão Preto|9560
+23413|Vila Carvalho|9560
+23421|Vila Mariana|9560
+23445|Conjunto Residencial Vila Verde|9566
+23471|Jardim Floridiana|9566
+23505|Jardim São Paulo|9566
+23526|Residencial Florença|9566
+23540|Vila Indaiá|9566
+23552|Bela Vista|9587
+23603|Jardim Santa Cruz|9587
+23614|Jardim Três Marias|9587
+23640|Centro|9595
+23646|Cidade Nova II|9595
+23648|Conjunto Habitacional Francisco de Cillo (INOCOOP)|9595
+23649|Conjunto Habitacional Roberto Romano|9595
+23650|Conjunto Habitacional Trabalhadores|9595
+23671|Jardim das Orquídeas|9595
+23693|Jardim Pérola|9595
+23694|Jardim Primavera|9595
+23700|Parque Residencial Santa Inês|9595
+23701|Jardim Santa Rita de Cássia|9595
+23705|Jardim São Luiz|9595
+23711|Loteamento Industrial|9595
+23718|Parque Olaria|9595
+23759|Vila Pires|9595
+23783|Cidade São Jorge|9625
+23796|Jardim Alzira Franco|9625
+23847|Jardim Stella|9625
+23850|Jardim Utinga|9625
+23852|Paraíso|9625
+23873|Jardim Club de Campo|9625
+23879|Santa Terezinha|9625
+23887|Utinga|9625
+23894|Vila Alto de Santo André|9625
+23913|Vila Floresta|9625
+23915|Vila Gilda|9625
+23919|Vila Guiomar|9625
+23929|Vila Linda|9625
+23931|Vila Lutécia|9625
+23937|Vila Metalúrgica|9625
+23962|Alemoa|9636
+23963|Aparecida|9636
+23966|Boqueirão|9636
+23970|Centro|9636
+23972|Chico de Paula|9636
+23977|Gonzaga|9636
+23978|Jabaquara|9636
+23993|Morro São Bento|9636
+24004|Ponta da Praia|9636
+24014|Vila Nova|9636
+24020|Anchieta|9640
+24025|Batistini|9640
+24028|Dos Casa|9640
+24079|Demarchi|9640
+24081|Ferrazópolis|9640
+24185|Jordanópolis|9640
+24188|Montanhão|9640
+24212|Planalto|9640
+24215|Rio Grande|9640
+24218|Rudge Ramos|9640
+24228|Taboão|9640
+24282|Vila Gonçalves|9640
+24379|Barcelona|9642
+24380|Boa Vista|9642
+24382|Cerâmica|9642
+24383|Fundação|9642
+24385|Mauá|9642
+24402|Centro|9643
+24456|Jardim Maracanã|9643
+24459|Jardim Mercedes|9643
+24460|Jardim Munique|9643
+24464|CEAT|9643
+24503|Núcleo Residencial Castelo Branco|9643
+24532|Residencial Samambaia|9643
+24625|Jardim Novo Horizonte|9647
+24635|Jardim Santa Rita|9647
+24699|Vila Valentin|9647
+24709|Centro|9659
+24760|Jardim Francisco Fernandes|9659
+24764|Jardim Itapema|9659
+24780|Jardim Nazareth|9659
+24788|Jardim Paraíso|9659
+24789|Jardim Paulista|9659
+24794|Jardim Residencial Vetorasso|9659
+24797|Jardim Santa Catarina|9659
+24844|Parque Residencial Dom Lafaiete Libânio|9659
+24852|Residencial Ana Célia|9659
+24865|Santos Dumont|9659
+24907|Vila Nossa Senhora da Paz|9659
+24939|Bosque dos Eucaliptos|9660
+24945|Campos de São José|9660
+24954|Chácaras Reunidas|9660
+24958|Cidade Vista Verde|9660
+24964|Conjunto Residencial Dom Pedro I|9660
+25014|Jardim das Cerejeiras|9660
+25079|Jardim São Dimas|9660
+25085|Jardim Satélite|9660
+25106|Parque Industrial|9660
+25135|Urbanova|9660
+25179|Vila Maria|9660
+25206|Vila São Bento|9660
+25220|Água Fria|9668
+25226|Alto de Pinheiros|9668
+25229|Americanópolis|9668
+25243|Bela Vista|9668
+25258|Cambuci|9668
+25264|Cangaíba|9668
+25270|Carandiru|9668
+25273|Casa Verde|9668
+25274|Casa Verde Alta|9668
+25278|Caxingui|9668
+25279|Centro|9668
+25280|Cerqueira César|9668
+25282|Chácara Belenzinho|9668
+25315|Chácara Santana|9668
+25331|Cidade Antônio Estevão de Carvalho|9668
+25345|Cidade Líder|9668
+25347|Cidade Monções|9668
+25352|Cidade Nova Heliópolis|9668
+25353|Cidade Nova São Miguel|9668
+25354|Cidade Patriarca|9668
+25360|Cidade Satélite Santa Bárbara|9668
+25362|Cidade Vargas|9668
+25364|City América|9668
+25374|Conjunto Habitacional Barro Branco II|9668
+25376|Conjunto Habitacional Brigadeiro Faria Lima|9668
+25386|Conjunto Habitacional Marechal Mascarenhas de Mora|9668
+25399|Conjunto Promorar Estrada da Parada|9668
+25400|Conjunto Promorar Raposo Tavares|9668
+25410|Conjunto Residencial Jardim Canaã|9668
+25411|Conjunto Residencial José Bonifácio|9668
+25422|Consolação|9668
+25430|Engenheiro Goulart|9668
+25434|Estância Jaraguá|9668
+25458|Ibirapuera|9668
+25460|Imirim|9668
+25461|Indianópolis|9668
+25464|Ipiranga|9668
+25465|Itaberaba|9668
+25467|Itaim Bibi|9668
+25473|Jaguaré|9668
+25474|Jaraguá|9668
+25476|Jardim Adelfiore|9668
+25550|Jardim Boa Vista (Zona Oeste)|9668
+25554|Jardim Bonfiglioli|9668
+25559|Jardim Brasil (Zona Norte)|9668
+25560|Jardim Brasília (Zona Leste)|9668
+25567|Jardim Caguassu|9668
+25594|Jardim Centenário|9668
+25598|Jardim Cibele|9668
+25604|Jardim Clarice|9668
+25610|Jardim Coimbra|9668
+25618|Jardim Consórcio|9668
+25633|Jardim da Glória|9668
+25641|Jardim das Camélias|9668
+25647|Jardim das Oliveiras|9668
+25665|Jardim do Colégio|9668
+25677|Jardim Donária|9668
+25690|Jardim Dracena|9668
+25712|Jardim Esmeralda|9668
+25723|Jardim Fernandes|9668
+25753|Jardim Guarapiranga|9668
+25762|Jardim Helena|9668
+25786|Jardim Imperador (Zona Leste)|9668
+25789|Jardim Indaiá|9668
+25790|Jardim Independência|9668
+25795|Jardim Iporã|9668
+25800|Jardim Íris|9668
+25810|Jardim Itapura|9668
+25817|Jardim Jabaquara|9668
+25820|Jardim Japão|9668
+25895|Jardim Maria Estela|9668
+25906|Jardim Marília|9668
+25912|Jardim Maristela|9668
+25928|Jardim Miriam|9668
+25967|Jardim Nordeste|9668
+25970|Jardim Nossa Senhora do Carmo|9668
+25978|Jardim Novo Carrão|9668
+25982|Jardim Novo Santo Amaro|9668
+25987|Jardim Ondina|9668
+25999|Jardim Paraguaçu|9668
+26011|Jardim da Pedreira|9668
+26016|Jardim Peri Novo|9668
+26020|Jardim Petrópolis|9668
+26026|Jardim Piracuama|9668
+26028|Jardim Piratininga|9668
+26030|Jardim Planalto|9668
+26041|Jardim Progresso|9668
+26057|Jardim Reimberg|9668
+26065|Jardim Rio Pequeno|9668
+26077|Jardim Rosina|9668
+26108|Jardim Santa Lucrécia|9668
+26111|Jardim Santa Margarida|9668
+26112|Jardim Santa Maria|9668
+26115|Jardim Santa Terezinha (Zona Leste)|9668
+26125|Jardim Santo Elias|9668
+26131|Jardim São Bernardo|9668
+26137|Jardim São Gabriel|9668
+26140|Jardim São João (São Rafael)|9668
+26144|Jardim São Judas Tadeu|9668
+26146|Jardim São Luís|9668
+26170|Jardim Selma|9668
+26178|Jardim Soares|9668
+26190|Jardim Taboão|9668
+26193|Jardim Tanay|9668
+26203|Jardim Thomaz|9668
+26248|Jardim Vitória Régia|9668
+26251|Jardim Wilma Flor|9668
+26259|Jurubatuba|9668
+26262|Lapa de Baixo|9668
+26263|Lauzane Paulista|9668
+26265|Limão|9668
+26266|Limoeiro|9668
+26274|Mirandópolis|9668
+26276|Mooca|9668
+26290|Parada Inglesa|9668
+26301|Parque América|9668
+26313|Parque Bristol|9668
+26314|Parque Casa de Pedra|9668
+26320|Parque Continental|9668
+26323|Parque da Mooca|9668
+26356|Parque Ipê|9668
+26363|Parque Ligia|9668
+26364|Parque Luis Mucciolo|9668
+26366|Parque Mandaqui|9668
+26371|Parque Maria Luiza|9668
+26379|Parque Novo Mundo|9668
+26384|Parque Paulistano|9668
+26391|Parque Ramos Freitas|9668
+26398|Parque Residencial dos Lagos|9668
+26399|Parque Residencial Julia|9668
+26406|Parque Santa Cecília|9668
+26412|Parque Santo Antônio|9668
+26414|Parque São Domingos|9668
+26420|Parque São Luís|9668
+26424|Parque Savoy City|9668
+26426|Parque Sonia|9668
+26437|Pedreira|9668
+26442|Pinheiros|9668
+26447|Planalto Paulista|9668
+26459|Quinta da Paineira|9668
+26491|Santo Amaro|9668
+26497|São Miguel Paulista|9668
+26500|Saúde|9668
+26525|Sumaré|9668
+26526|Sumarezinho|9668
+26527|Super Quadra Morumbi|9668
+26533|Tremembé|9668
+26542|Várzea de Baixo|9668
+26545|Vila Acre|9668
+26550|Vila Aimoré|9668
+26554|Vila Albertina|9668
+26556|Vila Almeida|9668
+26559|Vila Alzira|9668
+26571|Vila Andrade|9668
+26578|Vila Antônio|9668
+26586|Vila Aricanduva|9668
+26596|Vila Bancária Munhoz|9668
+26600|Vila Barreto|9668
+26604|Vila Beatriz|9668
+26623|Vila Brasílio Machado|9668
+26637|Vila Campo Grande|9668
+26647|Vila Carmosina|9668
+26649|Vila Carrão|9668
+26662|Vila Chica Luisa|9668
+26669|Vila Clementino|9668
+26686|Vila Curuçá|9668
+26691|Vila Dalva|9668
+26701|Vila Divina Pastora|9668
+26716|Vila dos Palmares|9668
+26736|Vila Esperança|9668
+26739|Vila Fachini|9668
+26744|Vila Fernandes|9668
+26750|Vila Formosa|9668
+26761|Vila Gertrudes|9668
+26766|Vila Gomes Cardim|9668
+26777|Vila Guilhermina|9668
+26779|Vila Gustavo|9668
+26782|Vila Hebe|9668
+26795|Vila Indiana|9668
+26796|Vila Industrial|9668
+26807|Vila Isolina Mazzei|9668
+26830|Vila Leopoldina|9668
+26839|Vila Madalena|9668
+26851|Vila Maria Alta|9668
+26852|Jardim Maria Augusta|9668
+26853|Vila Maria Baixa|9668
+26858|Vila Mariana|9668
+26865|Vila Mascote|9668
+26867|Vila Matilde|9668
+26869|Vila Medeiros|9668
+26878|Vila Miriam|9668
+26882|Vila Moinho Velho|9668
+26886|Vila Moraes|9668
+26938|Vila Oratório|9668
+26941|Vila Paranaguá|9668
+26954|Vila Pereira Cerca|9668
+26969|Vila Portuguesa|9668
+26996|Vila Romana|9668
+26998|Vila Romero|9668
+27001|Vila Rosaria|9668
+27006|Vila Sabrina|9668
+27010|Vila Santa Clara|9668
+27015|Vila Santa Inês|9668
+27026|Vila Santo Estéfano|9668
+27034|Vila São Geraldo|9668
+27038|Vila São Nicolau|9668
+27039|Vila São Paulo|9668
+27053|Vila Simone|9668
+27062|Vila Sônia|9668
+27073|Vila Tolstoi|9668
+27088|Vila Yara|9668
+27126|Jardim Tanzi|9671
+27145|Vila Junqueira|9671
+27161|Taboão|9671
+27165|Catiapoa|9678
+27170|Esplanada dos Barreiros|9678
+27186|Parque Continental|9678
+27189|Parque São Vicente|9678
+27197|Vila Margarida|9678
+27202|Jardim Irmã Dolores|9678
+27204|Vila Valença|9678
+27241|Jardim Jamaica|9686
+27246|Jardim Primeiro de Maio|9686
+27248|Jardim Recreio dos Bandeirantes|9686
+27251|Jardim São Sebastião|9686
+27258|Parque Residencial Francisco Paschoal|9686
+27259|São João|9686
+27261|Vila Industrial|9686
+27268|Aparecida|9696
+27276|Caputera|9696
+27278|Central Parque Sorocaba|9696
+27279|Centro|9696
+27307|Iporanga|9696
+27418|Jardim Leandro Dromani|9696
+27436|Jardim Maria do Carmo|9696
+27464|Jardim Nova Manchester|9696
+27531|Jardim São Guilherme|9696
+27578|Parque das Laranjeiras|9696
+27584|Parque São Bento|9696
+27587|Parque Vitória Régia|9696
+27619|Vila Aeroporto|9696
+27635|Vila Augusta|9696
+27639|Vila Barão|9696
+27691|Vila Guimarães|9696
+27701|Vila Jardini|9696
+27704|Vila João Romão|9696
+27820|Jardim Amélia|9700
+27824|Jardim Bom Retiro (Nova Veneza)|9700
+27833|Jardim das Oliveiras (Nova Veneza)|9700
+27843|Jardim Ipiranga (Nova Veneza)|9700
+27868|Jardim Paulistano|9700
+27888|Jardim Santa Terezinha (Nova Veneza)|9700
+27900|Jardim Viel|9700
+27908|Parque Dante Marmirolli|9700
+27960|Cidade Miguel Badra (Gleba 02)|9703
+27981|Conjunto Residencial Irai|9703
+27983|Estância Angelina|9703
+27991|Jardim Altos de Suzano|9703
+28043|Jardim Nova América|9703
+28052|Jardim Residencial Suzano|9703
+28064|Jardim São Luís|9703
+28115|Vila Amorim|9703
+28124|Vila Colorado|9703
+28127|Vila Figueira|9703
+28147|Vila Santana|9703
+28183|Jardim Irapua|9707
+28207|Jardim Saint Moritz|9707
+28216|Jardim São Luiz|9707
+28224|Jardim Sílvio Sampaio|9707
+28243|Parque Monte Alegre|9707
+28244|Parque Pinheiros|9707
+28246|Parque Santos Dumont|9707
+28264|Centro|9725
+28267|Chácara Junqueira|9725
+28291|Jardim Novo Horizonte|9725
+28297|Jardim Rosa Garcia|9725
+28349|Vila São Paulo|9725
+28360|Campos Elíseos|9726
+28478|Parque Santo Antônio|9726
+28481|Parque São Luís|9726
+28482|Parque Senhor do Bonfim|9726
+28516|Vila Iapi|9726
+28541|Centro|9748
+28543|Conjunto Habitacional Antônio Pereira Gaspar|9748
+28576|Parque Bela Vista|9748
+28592|Vila Abarca|9748
+28693|Jardim Santa Rosa|9768
+28729|Vale Verde|9768
+28734|Vila Capuava|9768
+28752|Vila Olivo|9768
+28777|Cidade Nova II|9775
+28781|Jardim América|9775
+28803|Jardim São Gonçalo|9775
+28822|Vila Marajó|9775
+28823|Jardim Paraíso|9775
+28826|Vila Santa Terezinha|9775
+28885|Parque Jataí|9788
+28888|Parque Santa Márcia|9788
+28914|Vila Pedroso|9788
+28916|Vila Rodrigues|9788
+28920|Vila Vasques|9788
+28921|Vila Votocel|9788
+28981|Propovo|9789
+28999|São João|9805
+29001|Bairro da Cimba|9805
+29034|Loteamento Martins Jorge|9805
+29035|Loteamento Nova Araguaína|9805
+29036|Loteamento Pampulha|9805
+29042|Loteamento São Francisco|9805
+29081|Vila Couto Magalhães|9805
+29096|Jardim das Palmeiras|9862
+29109|Parque Residencial Nova Fronteira|9862
+29126|Setor União V|9862
+29127|Shangri-Lá|9862
+29132|Vila Iris|9862
+29165|Palos Verdes|9082
+29298|Oitis|2980
+29299|Arvoredo II|2980
+29311|Jardim Cipreste|9625
+29320|Quississana|6656
+29326|Colônia Murici|6656
+29361|Jardim Canguru|4141
+29373|Jardim Colorado|4141
+29409|Vila Iolanda II|9668
+29410|Jardim Angélica|9044
+29417|Jardim Paineiras I|5780
+29426|Loteamento Residencial Miguel Sochacki|5780
+29462|Jardim Eli Forte|2174
+29468|Vale Verde|9088
+29484|Agulha (Icoaraci)|4565
+29500|Sítio do Rosário|9622
+29507|Engenho Novo|9622
+29561|Colinas da Anhangüera|9622
+29579|Tamboré|9622
+29592|Itaim Mirim|9622
+29596|Refúgio dos Bandeirantes|9622
+29658|Alto do Cabrito|988
+29659|Tenoné|4565
+29703|Pratinha (Icoaraci)|4565
+29911|Tapanã (Icoaraci)|4565
+29913|Parquelândia|1347
+29924|Cidade Continental-Setor África|2028
+29925|Cidade Continental-Setor Europa|2028
+29927|Cidade Continental-Setor Ásia|2028
+29967|Capão do Gama|4347
+29975|Jardim Primavera|4347
+29987|Cabanagem|4565
+29995|Vereda|3689
+30014|Alvorada|8419
+30015|Monte Verde|3689
+30018|Popular|4347
+30020|Residencial Cerconi|9183
+30063|Bosque da Saúde II|4347
+30121|CPA II|4347
+30122|Ouro Fino|4347
+30123|CPA III|4347
+30124|CPA IV|4347
+30142|Parque Continental II|9183
+30145|Jardim Leblon|4347
+30148|Jardim Novo Horizonte|4347
+30161|Jardim Ana Lúcia|9315
+30216|Funcionários|4017
+30233|Residencial Esperança|9005
+30243|Jardim Paris|6308
+30293|Praeirinho|4347
+30312|Residencial Professora Marieta|6268
+30340|Granja Carneiro Viana|9082
+30346|João Crevelaro|8969
+30352|Alto Colinas|8969
+30362|Padre Ulrico|6094
+30383|São João Del Rey|4347
+30428|Vila Paulista I|9668
+30433|Parque Nova Esperança I|4347
+30474|Aldeinha|9239
+30508|Nova Santa Marta|8087
+30563|Cidade Miguel Badra|9703
+30573|Jardim Fontalis|9668
+30581|Morada do Paraty|4462
+30589|Castanheira|7352
+30593|Sertão do Maruim|8700
+30674|Jardim dos Ipês|9703
+30680|Cidade Natal|4462
+30681|Parque Residencial Agudo Romão II|9052
+30687|Loteamento Cidade Jardim|9052
+30698|Habiteto - Ana Paula Eleutério|9696
+30706|Mário Quintana|7994
+30721|Zona de Expansão (Aruana)|8770
+30726|Jardim Shangri-la A|6268
+30728|Alto das Pombas|988
+30736|Centro|8924
+30738|Região Central|9013
+30788|Recanto Pereira|9622
+30832|Km 5|8101
+30847|Parque Bela Vista|988
+30851|Residencial Paulistano|8886
+30880|Parque Residencial Gilberto Filgueiras II|8933
+30895|Residencial Nova Flórida|8961
+30898|Residencial Village Campo Novo|8961
+30903|Planalto|7221
+30915|Jardim das Margaridas|988
+30918|Gapara|2587
+30919|Quadras Econômicas Lúcio Costa (Guará)|1778
+30928|Vila Bispo de Maura|3689
+30929|Verônica|3689
+30937|Jardins Madri|2174
+30953|Machado|988
+30957|Cruz de Malta|8525
+30959|Parque Florença|9700
+30976|Jardim Progresso|9560
+30993|Residencial Acácias|4462
+31016|Conjunto Habitacional Joaquim Vernini|8989
+31037|da Graça|9082
+31038|Vila Embratel|2587
+31040|Universidade|307
+31043|São Benedito|2048
+31047|Imboassica|6962
+31102|Bela Vista II|3986
+31109|Darcy Ribeiro|2980
+31111|Jardim Guanabara|1347
+31128|Santo Amaro|3448
+31152|Nova Esperança|3229
+31153|Primeiro de Maio|3229
+31217|Residencial Lagoa|2762
+31221|Bandeirinhas|2762
+31255|Parque das Aroeiras|3169
+31305|Centro|4226
+31320|Turmalina|3169
+31412|Centro|484
+31509|Centro|2135
+31548|Núcleo Habitacional Novo Gama|2258
+31562|Centro|2318
+31729|Parque Rio Branco|2361
+31778|Centro|5889
+31847|Loteamento Recanto do Sol|9189
+31869|Ikaray|4511
+31881|Primavera|4511
+31901|Universal|2038
+32050|Jardim Novo Niterói|4511
+32064|Alto Serenata|4019
+32100|Jardim São Carlos|8962
+32128|Chácara Santo Antônio (Zona Leste)|9668
+32167|Setor Central|2051
+32325|Bortolan Sul|3632
+32326|Boa Vista de São Caetano|988
+32334|Jardim Filipinas|3632
+32337|Jardim Vitória IV|3632
+32350|Jardim Residencial Guimarães|9317
+32370|Cidade Nova|3857
+32422|Petrópolis|109
+32424|Clima Bom|109
+32425|Cidade Universitária|109
+32426|Jardim Petrópolis|109
+32433|Norte (Águas Claras)|1778
+32435|Areal (Águas Claras)|1778
+32436|Área de Desenvolvimento Econômico (Águas Claras)|1778
+32451|Cruzeiro do Sul|2361
+32452|Jardim Céu Azul|2361
+32454|Pacaembu|2361
+32466|Centro|6135
+32532|Centro|6008
+32598|Valparaiso I - Etapa B|2361
+32636|Centro|6335
+32672|Centro|6458
+32788|Centro|6835
+32858|Pioneiros|6068
+32867|Dário Grossi|2885
+32917|Jardim Nassim Mamed|9686
+32957|Centro|7675
+33060|Alto da Terezinha|988
+33094|Nossa Senhora da Conceição Aparecida|7396
+33095|Jardim Império do Sol|6308
+33120|Boné Azul|307
+33130|Setor Sul|2165
+33157|Nova Brasília|988
+33183|Setor Bela Vista|2165
+33193|Parque Lago|2165
+33254|Loteamento Villa Branca|9267
+33279|Jardim Jequitibá|9315
+33287|Jardim São Joaquim|9315
+33314|Residencial  Astolpho Luiz do Prado|9643
+33315|Residencial Itamarati|9643
+33344|Jardim Edisom da Silva Lima|9348
+33372|Conjunto Habitacional Vila dos Comerciários II|9348
+33478|Vista do Sol|2754
+33481|Parque Residencial Francisco Belo Galindo|9532
+33489|Chácaras São Martinho|9025
+33491|Residencial das Ilhas|8992
+33502|Plano Diretor Norte|9899
+33504|Plano Diretor Sul|9899
+33508|Jardim das Bandeiras|9025
+33534|Jardim Paulista (Taquaralto)|9899
+33542|Setor Sol Nascente (Taquaralto)|9899
+33567|Núcleo Habitacional Prefeito Erasmo Chrispim|9254
+33574|Chácara de Recreio Barão|9025
+33624|Freguesia (Jacarepaguá)|7043
+33691|Parque Village Castelo|9260
+33854|Centro|1108
+33932|Recanto dos Pássaros|9216
+33962|Estância Vila Verde|9260
+33973|Laércio Cabeline|4728
+33974|Nova Conquista|4728
+33983|Cecap|9321
+33987|Vila dos Comerciários I|9321
+33990|Bananal|9025
+34007|Parque Morangaba|9295
+34027|Nova República II|4774
+34043|Jardim Novo Campos Elíseos|9025
+34051|Vila Permanente|4824
+34102|Votuporanga I|9789
+34112|Jardim Novo Jaú|9668
+34151|Mussurunga II|988
+34185|Centro|2834
+34197|Centro|3360
+34202|Centro|2976
+34226|Vila La Brunetti|9240
+34363|Jardim Piatã A|9369
+34403|Aurá|4539
+34426|Nova Esperança|7042
+34480|Centro|3148
+34567|Centro|6941
+34614|Rosário|2222
+34617|SHIS|2222
+34627|Jardim Luzília|2222
+34638|Parque Estrela Dalva VI (Pedregal)|2258
+34651|Marambaia (Manilha)|6941
+34660|Parque Estrela Dalva IV|2222
+34663|Parque Estrela Dalva VII|2222
+34679|Grande Rio (Itambi)|6941
+34685|Loteamento Lunabel 3C|2258
+34686|Jardim Lago Azul|2258
+34687|Jardim Tropical|2258
+34694|Parque Nova Iguaçu|2222
+34698|Jardim Planalto|2222
+34710|Parque Estrela Dalva IX|2222
+34726|Parque Estrela Dalva X|2222
+34754|Olaria|2044
+34759|Vila Leopolis|9146
+34817|Parque Real|9371
+34847|Distrito Industrial|256
+34919|Centro|4691
+34934|Vila Bandeirantes|9260
+34960|Distrito Industrial Governador Aquilino Mota Duart|7375
+34971|Centro|6927
+34977|Centenário|7375
+34993|Setor Maysa Extensão|2174
+35028|Nova Cidade|7375
+35040|Raiar do Sol|7375
+35071|Parque Dom Pedro|8913
+35162|Centro|6858
+35197|São João do Cabrito|988
+35243|Cidade Satélite|7375
+35244|Senador Hélio Campos|7375
+35255|Centro|7993
+35337|Centro|4576
+35372|Araxá|307
+35674|Centro|9769
+35857|Catuaí Parque Residence|6268
+35895|Jardim Tropical|6268
+35898|Loteamento Porto Seguro|8933
+35932|Jardim Uruguai|9025
+36180|Centro|8357
+36186|Centro|8571
+36289|Vila Diamantina|8294
+36337|Centro|7434
+36376|Jardim Viena|6268
+36378|Monte Verde|8452
+36402|Vila do Sol|9668
+36405|Jardim Bandeirantes (Zona Norte)|9668
+36463|Ponta das  Canas|8452
+36486|Jurerê Internacional|8452
+36598|Centro|3933
+36653|Centro|3895
+36705|Nova Roma (Distrito)|7719
+36895|Centro|3934
+37103|Pontal do Ipiranga|1925
+37114|Distrito de São Vicente|1839
+37466|Santa Teresa|6865
+37488|Setor Habitacional Taquari (Lago Norte)|1778
+37500|Muçumagro|4964
+37538|Vila Suiça|9485
+37587|Jardim Botânico|9560
+37592|Jardim Luiza II|9144
+37663|Centro|9722
+37687|Pinhal|9004
+37702|Coqueiral|1816
+37729|Bancários|4964
+37730|Barra do Riacho|1816
+37923|Jardim Regina (Moreira César)|9485
+37952|Cidade dos Colibris|4964
+37960|Cuiá|4964
+37964|João Paulo II|4964
+37975|Jardim Novo Imperial|5783
+37985|Santa Rita|2285
+38002|Jardim Limoeiro|9501
+38010|Boca da Mata de Valéria|988
+38011|Nova Brasília de Valéria|988
+38026|Jardim Almeida|9668
+38118|Emaús|7229
+38788|Centro|232
+38831|Córrego Alegre|2031
+38999|Setor Comercial|4493
+39077|Pontezinha|5189
+39100|Centro|5511
+39201|Setor Habitacional Contagem (Sobradinho)|1778
+39288|Centro|5603
+39314|Centro|5623
+39373|Centro|5657
+39398|Centro|5682
+39451|Centro|7331
+39483|Espinheiros|8507
+39496|Baixa Grande|7061
+39538|Nova Parnamirim|7229
+39547|Parque Residencial Anna Guilhermina Rois Alves|9177
+39653|Oxford|8684
+39656|Residencial Recreio Panorama Extensão|2174
+40321|Jardim União da Vitória II|6268
+40464|Centro|3936
+40655|Centro|8642
+41022|Centro|4909
+41265|Centro|3511
+41375|Jardim Itália|6308
+41479|Centro|3804
+41544|Centro|3945
+41656|Centro|6662
+41700|Mato Preto|6254
+42057|Centro|5414
+42090|Novo Maranguape I|1488
+42091|Novo Maranguape II|1488
+42099|Santos Dumont|1488
+42775|Distrito Agroindustrial de Anápolis|2065
+43038|Peixinhos|5406
+43092|Ângelo Frechiani Região 19|1847
+43097|Residencial Talismã|2174
+43109|Condados|1879
+43113|Núcleo Residencial Bairro da Vitória|9025
+43160|Parque Industrial Vereador Sebastião de Mendonça X|6794
+43273|Edson Mororó Moura|5169
+43275|Bom Conselho|5169
+43276|São Pedro|5169
+43279|Conjunto Marcos Freire|9183
+43283|Vila Real Continuaçao|9189
+43312|Patriolino Ribeiro|1347
+43349|Graciosa - Orla 14|9899
+43354|Nova Colina (Sobradinho)|1778
+43355|Alto da Boa Vista (Sobradinho)|1778
+43357|Parque Manibura|1347
+43380|Sernamby|2019
+43384|Santa Tereza|2019
+43388|Fátima|2019
+43390|Arnaldo Bastos|2019
+43392|Aviação|2019
+43397|Residencial Park Washington|2019
+43401|Vila Verde|2019
+43405|Vitória|2019
+43407|Bonsucesso|2019
+43418|São Marcos|1816
+43419|Planalto|1816
+43425|Morobá|1816
+43427|Jequitibá|1816
+43433|Vila Rica|1816
+43434|Guanabara|1816
+43435|Limão|1816
+43454|Praia dos Padres|1816
+43456|Vila do Riacho|1816
+43481|Gramame|4964
+43487|Jardim Bela Vista|8891
+43510|Jardim das Figueiras|9368
+43553|Chicó|9493
+43578|Centro|10691
+43588|Cidade 2000|1347
+43589|Manoel Dias Branco|1347
+43610|Portal do Medeiros|9295
+43625|Jardim Boa Vista|9370
+43637|Residencial Parque Douradinho|9643
+43655|Siqueira|1347
+43662|Parque dos Sabiás|9560
+43668|Cais do Porto|1347
+43681|Jardim Porto Seguro|9560
+43703|Barroso|1347
+43722|Barra|8357
+43725|Nova Esperança|8357
+43726|Vila Real|8357
+43734|Domingos Olímpio|1722
+43743|Chácara Jockey Club (Zona Rural)|9659
+43753|Residencial Floresta Park (Zona Rural)|9659
+43781|Estância Santa Clara (Zona Rural)|9659
+43786|Estância San Carlos (Zona Rural)|9659
+43817|Jardim Primavera 2ª Etapa|2065
+43840|Estância Santa Apolônia (Zona Rural)|9659
+43841|Estância Matinha (Zona Rural)|9659
+43907|Jacaré|6873
+43935|Parque Perequê (Mambucaba)|6845
+43936|Parque Mambucaba (Mambucaba)|6845
+43950|Japuíba (Cunhambebe)|6845
+43953|Areal (Cunhambebe)|6845
+43954|Campo Belo (Cunhambebe)|6845
+43964|Camorim|6845
+43974|Monsuaba|6845
+43994|Jardim Guaranhuns|2044
+44031|Malhada Vermelha|7150
+44048|Passagem de Areia|7229
+44049|Vale do Sol|7229
+44050|Parque de Exposições|7229
+44054|Liberdade|7229
+44057|Parque das Árvores|7229
+44058|Nova Esperança|7229
+44059|Cajupiranga|7229
+44063|Jenipapeiro|1486
+44073|Pilar|6912
+44080|Sitio Manoel Domingo|7202
+44213|Jardim Elza Amuí III|4047
+44241|Distrito Industrial Doutor Hélio Pentagna Guimarãe|2980
+45866|Jardim das Nações|4141
+45885|Loteamento Morro Amarelo|9370
+45908|Santa Rita de Cássia|2028
+45909|Colina de Laranjeiras|2028
+45920|Recanto da Sereia|1879
+45921|Coaçu|1347
+45923|Ancuri|1347
+45924|Pedras|1347
+45953|Jardim Santa Cruz (Sacomã)|9668
+45958|Enseada do Brito (Ens Brito)|8589
+45970|Lagoa das Flores|1116
+46503|Vila Romana|3547
+46505|Tiradentes|1844
+46683|Parada Morabi|6912
+48469|Parque Clayton Malaman|9501
+48479|Jardim Morada Feliz|9250
+48494|Parque Residencial dos Girassóis|4141
+48526|Jardim Europa|4048
+48537|Âncora|7042
+48544|Residencial Damha II|4141
+48595|Alphaville|9622
+48654|Nova São Mateus|2019
+48719|Santa Maria da Codipe|5721
+48724|Colônia|9559
+48732|Centro Alto|9559
+48741|Pilar Velho|9559
+48743|Tanque Caio|9559
+48749|Somma|9559
+48809|Potecas|8700
+48833|Jardim Paulista III|6308
+48844|Ipê|4263
+48864|Cidade Nova|8507
+48882|Iparana|1284
+48905|Jardim das Nações|6420
+48907|Residencial Fazenda Simone|6420
+48964|João Novo|256
+48970|Parque Alto da Paraná|6794
+48973|Jardim Tóquio|6308
+48975|Jardim Atami|6308
+48979|Vila Manaus|8430
+48987|Jardim Santa Esmeralda|9696
+49043|Chácara Guanabara|9369
+49086|Jardim Belo Horizonte|9216
+49093|Jardim Professor Antônio Palocci|9560
+49142|Setor Habitacional Arniqueira (Águas Claras)|1778
+49160|Jardim Clarissa|2174
+49176|Peirópolis|4047
+49208|Jardim dos Cardoso|9183
+49217|São Damião|3315
+49224|Jardim Icaraí|1284
+49227|Cohab II|1722
+49246|Frigorífico|4754
+49254|Park dos Buritis|4754
+49280|Setor Novo Horizonte|4846
+49287|Residencial Parque Pavan|9700
+49294|Vila Mutirão II|2174
+49326|Moradias Rio Alegre|6754
+49328|Jardim Monte Carlo|6754
+49336|Coqueiral|7315
+49340|Rota do Sol|7315
+49355|São Cristóvão|4774
+49378|Cantinho do Céu|2028
+49387|Moinho dos Ventos|2174
+49392|Costa Bela|2028
+49397|Serra Dourada II|2028
+49404|Residencial Jacaraípe|2028
+49418|das Laranjeiras|2028
+49456|Antônio Vieira|1451
+49467|Inhayba|9696
+49509|Planalto Boa Esperança|4964
+49533|Jardim Paraíso|9668
+49587|Fazendinha|307
+49595|Três Marias|1451
+49599|Jardim Paulista|9696
+49603|Betolândia|1451
+49627|Jardim Roseli|8928
+49630|Jardim das Flores|5895
+49645|Guamirim|9005
+49649|Aviário|582
+49671|São João|6427
+49688|Sabiaguaba|1347
+49717|Jardim Apolo I|9660
+49766|Parque das Garças|9177
+49775|Santa Rita de Cássia|2754
+49785|Sagrado Coração|4066
+49803|Vale do Tamanduá|3749
+49806|Jardim Taiti|4462
+49808|Outeiro de Passárgada|9082
+49816|Floradas de São José|9660
+49820|Loteamento Padre Ezequiel Ramim|4462
+49847|Lagoa do Mato|7220
+49852|Jardins Milão|2174
+49853|Santa Delmira|7220
+49868|Jardim HD|4462
+49871|Jardim Canadá|4047
+49878|Fragoso|5384
+49890|Muribequinha|5302
+49897|Baia Nova|1879
+49947|Alto Boa Vista|3549
+49949|Novo Sorriso|3549
+49993|Doutor Fábio Leite|4347
+50017|Quinta Ranieri|8961
+50028|Gleba Santa Mônica|4047
+50056|Setor Summerville|2065
+50061|Residencial Aldeia dos Sonhos|2065
+50127|Sapiranga|1347
+50141|Condomínio Lagamar|4066
+50149|Loteamento Alphaville Cuiabá|4347
+50158|Jardim Terras do Sul|9660
+50171|Jardim Esperança|9177
+50178|Nossa Senhora da Penha|1925
+50226|Chácaras Granja São Francisco|8913
+50234|Loteamento San Fernando Valley|9659
+50251|Jardim Conquista|9267
+50268|Jardim Porto Real|9317
+50271|Chácaras Recanto da Colina Verde|9025
+50272|Jardim Bianco|9659
+50279|Pousada Santo Antônio|2754
+50281|Margarida|8079
+50314|Virgem Santa|6962
+50322|Jardim Santa Inês II|9660
+50337|Alto do Piracuama|9485
+50346|Guaçu|9671
+50389|Vila Guimarães|6994
+50392|Palhada|6994
+50393|Valverde|6994
+50394|Cabuçu|6994
+50395|Campo Alegre|6994
+50397|Marapicu|6994
+50398|Lagoinha|6994
+50401|Km 32|6994
+50413|Franca Pólo Club|9144
+50453|Conjunto Taquaril|2754
+50461|Umbu|7408
+50476|Nossa Senhora da Conceição|2754
+50477|Barro Branco|1301
+50487|Uglione|8087
+50523|Colinas do Piracicaba (Ártemis)|9493
+50551|Residencial Veneza|2298
+50563|Nossa Senhora da Vitória|659
+50566|São Miguel|659
+50596|Jardim América Prolongamento A|2298
+50609|Jardim Residencial Flamboyant|8913
+50627|Jardim Green Park Residence|9189
+50651|Recanto Som do Mar|9043
+50656|Conjunto Habitacional Sonho Meu|9789
+50661|Horto Florestal|2754
+50697|Conjunto Habitacional Dom Constantino Amstalden|9643
+50703|Jardim Lucas Teixeira|9647
+50724|Habitar Brasil|7439
+50725|Jardim Gramado|2174
+50726|Residencial Recanto dos Buritis|2174
+50737|Residencial Real Conquista|2174
+50832|Viena (Justinópolis)|3689
+50834|Loteamento Yamaguchi|6418
+50843|Profipo|8521
+50874|Cabuçu|1031
+50913|Vila Floresta|8430
+50917|Imperatriz|8430
+50918|Promorar Vila Vitória|8430
+50920|São Sebastião|8430
+50927|Vila Isabel|8430
+50948|Olaria|7352
+50959|Igarapé|7352
+50979|Nossa Senhora de Fátima|7336
+51080|Áreas Especiais|7315
+51134|Jardins|8992
+51142|Jardim Santa Rosa|9686
+51149|Pineville|6445
+51161|Malvinas|4904
+51165|Quarenta|4904
+51167|Sandra Cavalcante|4904
+51169|Serrotão|4904
+51171|Jardim Itália I|7319
+51172|Planalto Ayrton Senna|1347
+51177|Acácio Figueiredo|4904
+51178|Velame|4904
+51179|Três Irmãs|4904
+51181|Castelo Branco|4904
+51186|Jardim Doutor Paulo Gomes Romeo|9560
+51197|Parque Dois Irmãos|1347
+51204|Alphaville Graciosa|6445
+51206|Jardim Karla|6445
+51285|Centro|1409
+51310|Setor Oeste (Vila Estrutural - Guará)|1778
+51312|Setor Leste (Vila Estrutural - Guará)|1778
+51315|Cidade Nova|7566
+51336|Vila Darcy Penteado (Mailasqui)|9671
+51349|Santa Vitória|8079
+51354|João Cabral|1451
+51483|Pedro Zanivan|8430
+51562|Parque Desportivo Brasília (Roosevelt)|2222
+51565|Portal da Fazendinha|9043
+51566|Capricónio III|9043
+51602|Campo do Gado Novo|582
+51609|Jardim Europa|8079
+51621|Jardim das Primaveras|4163
+51622|Capricórnio III|9043
+51663|Capricórnio I|9043
+51666|Loteamento Real Park|9005
+51680|Jardim Dona Emília|9285
+51699|Swiss Park|9025
+51729|Belvedere|3689
+51731|São Judas Tadeu|3689
+51736|Lagoa (Justinópolis)|3689
+51751|Centro|5832
+51769|Pedro Pereira de Mesquita (Lácio)|9348
+51777|Sítios de Recreio Letícia (Padre Nóbrega)|9348
+51784|Centro|11059
+51795|Vista Mar|1844
+51798|Morada do Bosque|7502
+51802|São Sebastião|5214
+51806|Madre Rosa|5214
+51833|Varjão|1778
+51848|Francisco Simão dos Santos Figueira|5259
+51873|Praia do Meio (Ens Brito)|8589
+51926|Setor de Chácaras Anhangüera C|2361
+51942|Barro Vermelho|6865
+51944|Wona|6865
+51973|Centro|1274
+51996|Núcleo Rural Vargem Bonita (Núcleo Bandeirante)|1778
+52000|Setor Habitacional Samambaia (Vicente Pires)|1778
+52002|Setor Habitacional Vicente Pires|1778
+52043|Campo Verde|4347
+52050|Maristela|2298
+52067|Vila Miafiori|2298
+52076|Residencial Parque dos Ipês|2298
+52098|Monsenhor Souza|2125
+52109|Residencial Morada do Sol|2204
+52116|Flores e Florestas|2762
+52161|Setor de Chácaras Córrego da Onça (Núcleo Bandeira|1778
+52183|Vila Salles|8928
+52184|São Matheus|4511
+52216|Jardim Samambaia|9274
+52218|Jardim Estados Unidos|9274
+52250|Parque Industrial I|9274
+52265|Jardim Brasil|9274
+52266|Vila Talma|9274
+52278|Jardim Pires de Andrade|9274
+52281|Vila Stafusa|9274
+52306|Conjunto Habitacional José Antonio Caparroz Bogaz|9274
+52334|Nova Ipê|4511
+52378|Querência do Turvo|9037
+52389|Jardim Nova Palmares II|9768
+52417|Estados|6068
+52418|Eucaliptos|6068
+52423|Veneza|6068
+52427|Itapoã II|1778
+52450|Portal do Amanhecer III (Planaltina)|1778
+52465|Estância Mestre D'Armas IV (Planaltina)|1778
+52467|Estância Mestre D'Armas II (Planaltina)|1778
+52497|Parque Residencial Lauriano Tebar II|9659
+52507|Residencial Peres Elias|9144
+52508|Cabeças|3507
+52516|Setor Residencial Norte|4493
+52521|Jardim das Palmeiras|4493
+52525|Jardim das Oliveiras|4493
+52542|Residencial Delta|4493
+52546|Jardim Paraíso|4493
+52551|Jardim Celeste|4493
+52560|Jardim Jacarandás|4493
+52570|Loteamento Menino Jesus II|4493
+52572|Jardim América|4493
+52589|Arruda|5964
+52590|Santa Mônica Popular|2044
+52596|Vila Isabel (Anjo da Guarda)|2587
+52602|Osasco|5964
+52607|Vila Isabel (Parelheiros)|9668
+52622|Guarani|5964
+52625|Maracanã|5964
+52626|Infraero|307
+52627|Paloma|5964
+52628|São Dimas|5964
+52631|Palmital|5964
+52634|Mauá|5964
+52676|Condomínio Chácaras Ana Maria (Santa Maria)|1778
+52682|Vila Maranhão|2587
+52693|Parque São Francisco|2165
+52704|Jardim Santa Clara I|4462
+52761|Pedrinhas|307
+52762|Jardim Cuiabá|4462
+52768|Pontilhão|5169
+52774|Santa Sofia|2754
+52817|Severiano de Moraes Filho|5259
+52823|Destilaria|5189
+52845|Vila Nova|4462
+52850|Jardim Ipê|4462
+52857|Loteamento Jambalaia II|4462
+52869|Jardim Moreira|8907
+52870|Jardim Novo Horizonte|4462
+52916|Campo Verde|2038
+52933|Schramm|8684
+52935|Brasília|8684
+52941|Rio Negro|8684
+52943|Colonial|8684
+52946|25 de Julho|8684
+52950|Alpino|8684
+52993|Nossa Senhora de Fátima|8087
+53005|Duque de Caxias|8087
+53022|Nossa Senhora Aparecida|3448
+53029|São Luiz|6427
+53060|Residencial Portal do Sol - 1ª Etapa|2209
+53066|Belvedere|3448
+53120|Jardim Vila Verde|4263
+53154|Citrolândia|2762
+53187|São Luiz|2762
+53202|Santo Antônio|2762
+53218|Jardim Esperança (Potunduva)|9285
+53233|José Castro|2430
+53246|Parreão|1347
+53247|Recantus|6865
+53254|Vera Cruz|5198
+53257|Vila da Inabi|5198
+53259|Nazaré|5198
+53279|Espírito Santo|1116
+53280|Granja Lisboa|1347
+53285|Distrito Industrial|1116
+53288|Bairro Novo do Carmelo|5198
+53304|Água Verde|8377
+53305|Céu Azul|5198
+53306|Santa Teresa|5198
+53307|Estação Nova|5198
+53310|Velha Central|8377
+53321|João Paulo II|5198
+53323|Borralho|5198
+53334|Residencial Cidade Industrial|2065
+53343|Residencial Vale do Sol|2065
+53357|Fortaleza Alta|8377
+53365|Fátima|1451
+53377|Vila São Francisco|2990
+53389|Residencial Presidente Tancredo Neves|4047
+53418|Jardins Mangueiral (São Sebastião)|1778
+53419|Residencial Santa Fé I|2174
+53427|Centro|5422
+53436|Jardim Nossa Senhora das Graças (Rubião Junior)|8989
+53443|Jardim Dona Marta (Rubião Junior)|8989
+53492|Condomínio Residencial Santa Rita|2174
+53511|São Caetano|8294
+53531|Registro|8101
+53545|Brasília|8101
+53547|Kennedy|8101
+53556|Vila Mariáh|9260
+53566|Rosário|2695
+53592|Joaquim Fonseca Milano|7396
+53660|Vila Três|7067
+53696|Loteamento Santa Edwiges|9587
+53752|Parque Residencial Jarina|9532
+53760|Vila Mauro Fecury II|2587
+53761|Vila São Luís|2587
+53762|Vila Mauro Fecury I|2587
+53782|Cidade Olímpica|2587
+53800|Santa Rita|4263
+53825|Residencial José Adriano Leitão|4493
+53828|Jardim Imperial|9660
+53839|Loteamento Conjunto Morada do Sol II|9660
+53873|São Victor COHAB|7566
+53904|Nova Xinguara|4846
+53916|São José|307
+53937|Jardim América|2587
+53940|Nossa Senhora das Graças|7566
+53949|Parque Village Flamboyant|4728
+53951|Novo Angelim|2587
+53956|Alterosa|2587
+53962|Vila Riod|2587
+53970|Residencial Alvorada|7315
+53994|Roma|7121
+53996|Ilhinha|2587
+53999|Vila Luizão|2587
+54005|Parque Vitória|2587
+54021|Almir Gabriel|4596
+54034|Novo Horizonte|2704
+54046|Jardim Europa|2704
+54068|Itapoã|1284
+54076|Residencial Jardins do Cerrado 10|2174
+54078|Residencial Jardins do Cerrado 4|2174
+54087|Residencial Meireles|9144
+54109|Centro|1576
+54129|Saramandaia|5281
+54135|Inhamã|5281
+54142|Agamenon Magalhães|5281
+54174|Vila Sumaré|2754
+54192|Vila Natal|2587
+54193|Santo Antônio|1451
+54203|Residencial Esperança|2587
+54210|Jardim das Margaridas|2587
+54214|Parque da Fonte|6656
+54218|Chácara Itapiracó|2587
+54267|Centro (Itambi)|6941
+54269|Sossego|6941
+54281|Quissamã|6941
+54283|Aldeia da Prata (Manilha)|6941
+54286|Apolo II (Manilha)|6941
+54287|Itaville|6941
+54293|Novo Horizonte (Manilha)|6941
+54294|Ampliação|6941
+54298|Granjas Cabuçu (Manilha)|6941
+54301|Sapê|6941
+54306|Santo Expedito|6941
+54346|Querência do Rio Bonito (Vitoriana)|8989
+54352|Cidade Gerardo Cristino de Menezes|1722
+54369|Conjunto Habitacional Residencial Veredas da Conqu|9216
+54439|Parque Residencial Jequitibá|9267
+54472|Parque Santa Maria|1347
+54475|Parque Paulistano Gleba A|2222
+54494|Porta Florada|5264
+54496|Ebenezer|5264
+54516|Campo Alegre|1451
+54543|Centro|12217
+54590|Centro (Ameliópolis)|9532
+54607|Diamantino|7566
+54618|Loteamento Vale dos Araxás|2704
+54625|Cabiúnas|6962
+54656|Raimundo Muniz|256
+54690|Primavera|5658
+54714|Garapu|5189
+54715|Parque das Águas|9144
+54727|Novo Aleixo|243
+54731|Cidade Nova|2606
+54749|São Félix Pioneiro|4677
+54776|São Francisco|233
+54780|Mamoud Amed|233
+54792|Jardim Adriana|233
+54805|Villagio Mundo Novo|9144
+54809|Liberdade|4824
+54819|Jardim Botânico I|5914
+54835|Mombaça|9671
+54881|Jardim Monte Cristo/Parque Oziel|9025
+54979|Vila Monte Alegre|9464
+55002|João Aranha|9464
+55006|Boa Esperança|9464
+55034|Parque da Barragem Setor 01|2055
+55042|Jardim Guaíra II|2055
+55056|Jardim dos Pinheiros|2055
+55066|Condomínio Residencial Embaixador|2055
+55071|Jardim da Barragem I|2055
+55072|Jardim da Barragem II|2055
+55074|Jardim da Barragem IV|2055
+55094|Parque da Barragem Setor 16|2055
+55110|Recanto da Barragem|2055
+55142|Bela Vista|7035
+55156|Loteamento Residencial Reserva do Engenho|9493
+55159|Córrego do Barro|3531
+55176|Chácaras Luzia Vicente|8992
+55181|Matinha|2587
+55261|Parque Industrial Lagoinha|9560
+55325|Jardim Residencial Mont Blanc|9696
+55338|Nova Conquista|5017
+55357|Chácaras Araguaia|2258
+55373|Área Urbanizada II|5914
+55400|Loteamento Jaguar|16
+55423|João Eduardo II|16
+55425|Ayrton Sena|16
+55436|Conjunto Habitacional Vila Betel 2|16
+55439|Portal da Amazônia|16
+55448|Conjunto Manoel Julião|16
+55467|Loteamento Joafra|16
+55472|Mocinha Magalhães|16
+55476|Conjunto Adalberto Sena|16
+55487|Alexandre Zachia|8278
+55489|Francisca Tarragô|8278
+55493|União das Vilas|8278
+55517|Ribeirão Cavalo|8518
+55542|Residencial Santo Antônio|2065
+55555|Parque Michel|2065
+55567|Nova Caieiras|9013
+55569|Serpa|9013
+55576|Vila Rosina|9013
+55579|Centro|6971
+55590|Jardim Interlagos (Ponta Negra)|6971
+55592|Pindobal (Ponta Negra)|6971
+55593|Balneário Bambuí (Ponta Negra)|6971
+55596|Jaconé (Ponta Negra)|6971
+55601|São José do Imbassaí|6971
+55602|Cajueiros (Itaipuaçu)|6971
+55603|Jardim Atlântico Leste (Itaipuaçu)|6971
+55605|Silvado|6971
+55608|Barroco (Itaipuaçu)|6971
+55611|Recanto de Itaipuaçu (Itaipuaçu)|6971
+55616|Caxito|6971
+55618|Camburi|6971
+55620|Itaocaia Valley (Itaipuaçu)|6971
+55621|Chácaras de Inoã (Inoã)|6971
+55622|Inoã (Inoã)|6971
+55658|Conjunto Residencial São Francisco|9726
+55670|Tingidor|9113
+55679|Fazenda Castro|3689
+55708|Jardim Planalto 1ª Seção|4226
+55711|Jardim Independência|4226
+55712|Jardim das Flores|4226
+55728|Jardim Estoril|4226
+55761|Vila Deputado Aral Moreira|4226
+55791|Jardim Primor|4226
+55793|Jardim Panambí|4226
+55851|Vila Aprazível|9267
+55873|Alto do Jucá|1396
+55880|Zona 02|5959
+55888|Residencial Parque das Nações|5959
+55921|Altiplano|1396
+55923|Jardim Céu Azul|5959
+55937|Jardim Aeroporto II|5959
+55946|Conjunto Ilha Bela|5959
+55956|Zona 07|5959
+55960|Zona 03|5959
+55969|Residencial Morada do Sol IV|5959
+56027|Novo Mondubim|1347
+56051|Bom Jesus do Pará|3531
+56055|Jardim Mirassol|4462
+56070|Nucleo Habitacional São José III|4462
+56092|Golf Gardens|9044
+56120|Setor Noroeste|1778
+56164|São Francisco|241
+56166|Liberdade|241
+56167|São José|241
+56187|Jardim Chaparral II|9370
+56214|Monte Alegre (Monte Alegre)|8396
+56217|Altos do Alvorada|4163
+56228|Santa Fé|4163
+56235|Parque Capibaribe|5445
+56251|Nova Cidade|243
+56255|Cidade de Deus|243
+56258|Bairro de Cima|9242
+56259|Kantiã|9242
+56280|Vila Florença|9216
+56324|Conjunto Residencial Mauá|6709
+56366|Núcleo Habitacional Padre Aldo Bolini|8992
+56386|Jardim Residencial e Comercial Alto dos Laranjais|9317
+56389|Jardins|7088
+56391|Ecologia|7088
+56393|Santa Alice|7088
+56398|Fazenda Caxias|7088
+56399|Santa Sofia|7088
+56404|Campo Lindo|7088
+56405|Piranema|7088
+56430|Nova Esperança|683
+56435|Real Grandeza - 2ª Etapa|2069
+56452|Gilberto Mestrinho|243
+56464|Independência - 2º Complemento|2069
+56465|Independência - 3º Complemento|2069
+56471|Loteamento Residencial Rosário|9025
+56473|Loteamento Parque dos Alecrins|9025
+56487|Copas Verdes|7336
+56491|Residencial Solar dos Ataídes 1ª Etapa|2298
+56500|Jardim Bassoli|9025
+56557|Parque Residencial Damha VI|9659
+56561|Hélio Lopes|6420
+56571|Portão|8924
+56582|Perobal|8924
+56583|Caputera|8924
+56591|Cinco Irmãos|2475
+56595|Waldir Lins II|9862
+56603|Vila João Castelo|2475
+56610|Jardim Pérola|2475
+56673|Aeroporto|2475
+56712|Parque Terras de Santa Maria|9189
+56746|Residencial Interlagos|9660
+56778|São João II|3986
+56785|Vila Primavera (Maracanã)|2587
+56789|Boa Esperança|5154
+56795|São José|3986
+56816|Parque Residencial Rosa do Sul|8992
+56829|Residencial Daury Riva|4493
+56836|Residencial Sabrina I|4493
+56923|Residencial Alpha Jales|9274
+56937|Gerson Baduy I|3275
+56946|Taboão|8650
+56954|Canta Galo|8650
+56955|Fundo Canoas|8650
+56962|Sumaré|8650
+56973|Recanto|7042
+56987|Nova Aliança|7042
+56988|Extensão do Bosque|7042
+56992|Liberdade|7042
+57001|Nova Cidade|7042
+57004|Costazul|7042
+57007|Jardim Bela Vista|7042
+57021|Alphaville|7042
+57053|Loteamento Porto Dourado|6091
+57065|Eixo Sul|1078
+57066|Estância Biquine|1078
+57075|Nanuque|1078
+57082|Setor Bahia Sul|1078
+57089|Comercial|316
+57095|Fortaleza|316
+57107|Monte Verde|8961
+57111|Comunidades de São Rafael|1925
+57118|São Miguel|1847
+57123|Morada das Garças|2135
+57135|Residencial Villa Suiça|2135
+57181|Jardim Cima|6794
+57210|Residencial das Araucárias|5959
+57218|Jardim dos Ipês I|9805
+57251|Jardim São Cristovão II|6794
+57252|Jardim Viveiros|6794
+57275|Jardim Cybelli|9560
+57292|Área Urbanizada III|5914
+57318|Residencial Portal dos Bandeirantes|6268
+57329|Residencial San Marino|8969
+57333|Residencial Dona Sílvia I|3986
+57370|Jardim Residencial Veneza|9216
+57405|Rio Abaixo|9295
+57413|Capão do Pequi|4511
+57419|Fazenda São Domingos - Conjunto Residencial Terra |2174
+57439|Monte Castelo|4892
+57440|Loteamento Chácaras Ingrid|9726
+57444|Vila Olímpia|6927
+57446|Nova Marília|6927
+57465|Corujas|6927
+57466|Monte Oliveti|6927
+57469|Limoeiro|6927
+57471|Caneca Fina|6927
+57492|Jardim Camboinha|4892
+57493|Recanto do Poço|4892
+57497|Renascer|4892
+57558|Cidade Jardim|5216
+57562|Vila Vitória|6964
+57592|Parque Boneville|6964
+57594|Jardim Prazeres|6964
+57614|Vila Recreio (Vila Inhomirim)|6964
+57624|Parque Monte Rose (Rio do Ouro)|6964
+57629|Centro (Suruí)|6964
+57631|Nova Orleans (Suruí)|6964
+57635|Goya (Guia de Pacobaíba)|6964
+57642|Jardim da Paz (Guia de Pacobaíba)|6964
+57650|Cidade Horácio (Vila Inhomirim)|6964
+57665|Parque Maitá (Vila Inhomirim)|6964
+57671|Parque Doutor Mendonça Cortez(Caucaia do Alto)|9082
+57678|Região 18|1847
+57748|Guaturinho|9015
+57756|Jordanésia (Jordanésia)|9015
+57766|Santa Terezinha (Jordanésia)|9015
+57767|Altos de Jordanésia (Jordanésia)|9015
+57769|Colina Maria Luíza (Jordanésia)|9015
+57773|Empresarial Mirante de Cajamar (Polvilho)|9015
+57775|Ipês (Polvilho)|9015
+57794|Centro|12996
+57806|Residencial Park dos Buritis|9862
+57815|Jardim Pilar|6308
+57818|Bom Jardim|6308
+57819|Jardim Espanha|6308
+57852|Barranca|8344
+57855|Santa Catarina|8344
+57858|Lagoão|8344
+57867|Morro dos Conventos|8344
+57877|Jardim Alto da Boa Vista|6554
+57884|Conjunto Habitacional San Fernando|6554
+57900|Parque Verde|403
+57904|Bandeirantes|403
+57907|Barreirinhas|403
+57908|Bela Vista|403
+57913|Jardins|403
+57943|São Pedro|8571
+57947|Machados|8571
+57950|Gravatá|8571
+57956|Condomínio Residencial Reserva Ecológica Atibaia|8928
+57958|Porto Bello Residence|9532
+57963|Loteamento Parque Residencial da Lealdade|9659
+57982|João Paulo II|3547
+58001|Condomínio Residencial e Comercial Fazenda Santa P|8992
+58006|Planalto Renascer|1636
+58014|Nova Jesusalém|1636
+58018|Combate|1636
+58025|Alto Boa Vista|1636
+58079|Chácaras Ipanema|2174
+58181|Santa Terezinha (2ª Etapa)|4347
+58182|José Moyses Nacif|2885
+58194|Clube de Campo Fazenda|9254
+58195|Jardim Novo Mundo|9560
+58204|Mário Andreazza|4876
+58221|Conjunto Habitacional Mario Emílio Bannwart|8933
+58250|Paramana (Ilha dos Frades)|988
+58280|Conjunto Residencial Costa Verde|2174
+58298|Jardim São Conrado|6308
+58315|Jardim Itália|8962
+58331|Jardim São Luiz|9477
+58336|Santa Alexandrina|3327
+58372|Loteamento Residencial Vista Verde|9087
+58393|Jardim Bispo Pedro Casaldáliga|4462
+58410|Aruã|9369
+58442|Condomínio Bella Vittà II|8912
+58498|Residencial Sítio Pinheiro (Canguera)|9671
+58515|Loteamento Costa Esmeralda|9805
+58550|Vitória|3169
+58552|Vila Horizonte|6418
+58600|Engenho da Praia|6962
+58636|Residencial Jardim Anatê I|4047
+58658|Paranoá Parque (Paranoá)|1778
+58681|Dr. Airton Rocha|7375
+58686|Residencial Laguna|9775
+58695|Jardim Residencial Maria Dulce|9216
+58708|Residencial e Comercial Guarulhos|9183
+58716|Condomínio Parque Residencial Damha l|9643
+58757|Núcleo Industrial Jardim Porto Seguro|9260
+58761|Parque Colúmbia|7043
+58817|Santo Agostinho|5422
+58837|Vila Norma|6973
+58867|Jardim Ana Beatriz I|2318
+58869|Parque Estrela Dalva XVI|2318
+58872|Parque Estrela Dalva XVII|2318
+58899|Praia João Rosa|8376
+58906|Fundos|8376
+58908|Jardim Janaína|8376
+58954|Atlântico|7675
+58962|Cerâmica|7675
+58964|Espírito Santo|7675
+58969|Paiol Grande|7675
+59006|Condomínio Terras de Santa Cruz|8992
+59014|Parque das Laranjeiras|4047
+59087|Jardim Marlene Miranda|9726
+59144|Jardim Goiás - Área I|2174
+59215|Área Rural de Santa Luzia|3749
+59301|Jardim dos Ipês II|9647
+59366|Área Rural de Chapecó|8419
+59427|Alphaville Brasília|2135
+59467|Capitão Eduardo (Bairro Montes Claros)|2754
+59480|Conjunto Habitacional João Domingos Netto|9532
+59486|Jardim Adalgisa|9043
+59506|Residencial Jardim do Jatobá|9189
+59536|Jardim Santa Marta|9696
